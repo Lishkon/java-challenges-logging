@@ -1,7 +1,8 @@
 group 'com.codewars.challenges'
 version '1.0-SNAPSHOT'
 
-apply plugin: 'java'
+apply plugin: 'application'
+mainClassName = 'kyu8.Dinglemouse'
 
 sourceCompatibility = 1.8
 
