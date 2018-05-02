@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 group 'com.codewars.challenges'
+=======
+group 'challenges.com.codewars'
+>>>>>>> 943e7beedb389cefbfff1f304f3366b2d2d69b3c
 version '1.0-SNAPSHOT'
 
 apply plugin: 'java'

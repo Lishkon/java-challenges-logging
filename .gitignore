@@ -1,8 +1,15 @@
+<<<<<<< HEAD
 .gitignore
 .gradle
 .idea
 out/
 build
 gradle
+=======
+.gradle/
+.idea/
+gradle/
+out/
+>>>>>>> 943e7beedb389cefbfff1f304f3366b2d2d69b3c
 gradlew
 gradlew.bat
