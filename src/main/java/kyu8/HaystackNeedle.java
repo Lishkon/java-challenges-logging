@@ -11,6 +11,8 @@ package kyu8;
  *    should return:
  *
  *    <quote>"found the needle at position 5"</quote>
+ *
+ *    @url https://www.codewars.com/kata/a-needle-in-the-haystack/train/java
  * */
 public class HaystackNeedle {
     public static String findNeedle (Object[] haystack) {
