@@ -17,6 +17,23 @@ package kyu8;
 public class HaystackNeedle {
     public static String findNeedle (Object[] haystack) {
         String needle = "needle";
-        return needle;
+        int position = 0;
+
+        for (int i = 0; i < haystack.length; i++) {
+            if (haystack[i] == needle) {
+                position = i;
+            }
+        }
+
+        return "found the needle at position " + position;
     }
 }
+
+/*
+* Better solution:
+*
+* public static String findNeedle (Object[] haystack) {
+*   return String.format("found the needle at position %d", java.util.Arrays.asList(haystack).indexOf("needle"));
+* }
+*
+* */
