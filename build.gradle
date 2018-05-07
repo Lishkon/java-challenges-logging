@@ -1,4 +1,5 @@
 group 'com.codewars.challenges'
+
 version '1.0-SNAPSHOT'
 
 apply plugin: 'java'
