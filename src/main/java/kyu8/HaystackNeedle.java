@@ -6,13 +6,13 @@ package kyu8;
  *    "found the needle at position " plus the index it found the needle, so:
  *
  *    For instance, this code
- *    <code>findNeedle(new Object[] {"hay", "junk", "hay", "hay", "moreJunk", "needle", "randomJunk"})<code>
+ *    <code>findNeedle(new Object[] {"hay", "junk", "hay", "hay", "moreJunk", "needle", "randomJunk"})</code>
  *
- *    should return:
+ *    should return: <br>
  *
- *    <quote>"found the needle at position 5"</quote>
+ *    <code>"found the needle at position 5"</code>
  *
- *    @url https://www.codewars.com/kata/a-needle-in-the-haystack/train/java
+ *    See the url https://www.codewars.com/kata/a-needle-in-the-haystack/train/java
  * */
 public class HaystackNeedle {
     public static String findNeedle (Object[] haystack) {
