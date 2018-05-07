@@ -11,6 +11,9 @@ public class SumOfPositive {
      *  @param arr an array of integers, both positive and negative. May be of any length
      *  @return sum that is 0 by default. Also, when an array contains only of integers, or is empty,
      *          <code>sum</code> is returned.
+     *
+     * Can also be implemented using the Lambda expression: <br>
+     * <code>return Arrays.stream(arr).filter(v -> v > 0).sum();</code>
      * */
     public static int sum (int[] arr) {
         int sum = 0;
@@ -21,4 +24,6 @@ public class SumOfPositive {
         }
         return sum;
     }
+
+
 }
