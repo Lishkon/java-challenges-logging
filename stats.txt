@@ -15,3 +15,4 @@ Count # |  Months /Solved tasks                           |  Complexity      | G
 ---------------------------------------------------------------------------------------------------------
 6       | ReversedSequence                                |  8 Kyu           |      A        |     1    |
 7       | Expressions                                     |  8 Kyu           |      A        |     1    |
+8       | Thinkful - Logic Drills: Traffic light          |  8 Kyu           |      A        |     0    |
