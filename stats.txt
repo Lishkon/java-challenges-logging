@@ -15,4 +15,18 @@ Count # |  Months /Solved tasks                           |  Complexity      | G
 ---------------------------------------------------------------------------------------------------------
 6       | ReversedSequence                                |  8 Kyu           |      A        |     1    |
 7       | Expressions                                     |  8 Kyu           |      A        |     1    |
-8       | Thinkful - Logic Drills: Traffic light          |  8 Kyu           |      A        |     0    |
+8       | Thinkful - Logic Drills: Traffic light          |  8 Kyu           |      A        |     1    |
+9       | SumOfPositive                                   |  8 Kyu           |      A        |     1    |
+10      | ConverToBinary                                  |  8 Kyu           |      A        |     1    |
+11      | PaperFolder                                     |  8 Kyu           |      A        |     0    |
+12      | TrafficLights                                   |  8 Kyu           |      A        |     1    |
+13      | OutputFormatting                                |  8 Kyu           |      A        |     1    |
+14      | HaystackNeedle                                  |  8 Kyu           |      A        |     1    |
+15      | God                                             |  8 Kyu           |      A        |     1    |atus
+
+
+
+
+
+
+
