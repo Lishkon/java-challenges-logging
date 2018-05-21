@@ -25,6 +25,7 @@ Count # |  Months /Solved tasks                           |  Complexity      | G
 15      | God                                             |  8 Kyu           |      A        |     1    |
 15      | StringyStrings                                  |  8 Kyu           |      A        |     0    |    Paused
 16      | School                                          |  8 Kyu           |      A        |     1    |
+17      | CountPositivesSumNegatives                      |  8 Kyu           |      A        |     1    |
 
 
 
