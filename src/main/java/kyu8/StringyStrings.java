@@ -1,6 +1,6 @@
 package kyu8;
 
-import com.sun.org.apache.xpath.internal.SourceTree;
+import java.util.stream.Stream;
 
 /**
  *  This is the function that takes a <code>size</code> and returns a string of
@@ -15,37 +15,26 @@ import com.sun.org.apache.xpath.internal.SourceTree;
  *      https://www.codewars.com/kata/stringy-strings/train/java
  * */
 public class StringyStrings {
+
+
     public static void main(String[] args) {
-        int size = 4;
-        String output = "1";
+        int size = 2;
+        String output = "";
         int outputLength = output.length();
-
-        for (int i = 1; i < size; i++) {
-//            output += '1';
-            if (outputLength == 0) {
-                output = "1";
-            } else if(output.charAt(i) == '1') {
-                System.out.println(output.charAt(i));
-                output += '0';
-            } else {
-                output += '1';
-            }
-        }
+        char[] arryed = {};
 
 
+//        for (int i = 0; i < size; i++) {
+//
+//            output.toCharArray();
+//            arryed[0] = 1;
+//            arryed
+//
+//
+//        }
+        output = arryed.toString();
         System.out.println(output);
 
     }
-//    public static String stringy (int size) {
-//        String output = "1";
-//        int outputLength = output.length();
-//        for (int i = 0; i < outputLength; i++) {
-//            output += '0';
-//            if (output.charAt(outputLength) == '0') {
-//                output += '1';
-//            }
-//        }
-//        return output;
-//    }
 
 }
