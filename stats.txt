@@ -35,4 +35,5 @@ Count # |  Months /Solved tasks                           |  Complexity      | G
 19      | StringRepeat                                    |  8 Kyu           |      A        |     1    |
 20      | CountingSheep                                   |  8 Kyu           |      A        |     1    |
 21      | ReverseWords                                    |  8 Kyu           |      A        |     0    |  In Progress
-22      | ReduceButGrow                                   |  8 Kyu           |      A        |     1    |  In Progress
+22      | ReduceButGrow                                   |  8 Kyu           |      A        |     1    |
+23      | OppositesAttract                                |  8 Kyu           |      A        |     1    |
