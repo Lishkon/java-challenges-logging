@@ -34,4 +34,5 @@ Count # |  Months /Solved tasks                           |  Complexity      | G
 18      | Accumul(Mumbling)                               |  7 Kyu           |      A        |     1    |
 19      | StringRepeat                                    |  8 Kyu           |      A        |     1    |
 20      | CountingSheep                                   |  8 Kyu           |      A        |     1    |
-
+21      | ReverseWords                                    |  8 Kyu           |      A        |     0    |  In Progress
+22      | ReduceButGrow                                   |  8 Kyu           |      A        |     1    |  In Progress
