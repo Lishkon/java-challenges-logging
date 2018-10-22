@@ -39,4 +39,4 @@ Count # |  Months /Solved tasks                           |  Complexity      | G
 23      | OppositesAttract                                |  8 Kyu           |      A        |     1    |
 24      | WrongEndHead                                    |  8 Kyu           |      A        |     0    |  In Progress
 25      | OddCount                                        |  8 Kyu           |      A        |     1    |
-26      | isDivisible                                     |  8 Kyu           |      A        |     0    |  In Progress
+26      | isDivisible                                     |  8 Kyu           |      A        |     1    |
