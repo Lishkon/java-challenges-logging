@@ -37,3 +37,5 @@ Count # |  Months /Solved tasks                           |  Complexity      | G
 21      | ReverseWords                                    |  8 Kyu           |      A        |     0    |  In Progress
 22      | ReduceButGrow                                   |  8 Kyu           |      A        |     1    |
 23      | OppositesAttract                                |  8 Kyu           |      A        |     1    |
+24      | WrongEndHead                                    |  8 Kyu           |      A        |     0    |  In Progress
+25      | OddCount                                        |  8 Kyu           |      A        |     0    |  In Progress
