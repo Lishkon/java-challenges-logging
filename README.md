@@ -2,6 +2,22 @@
 
 Here goes the statistics of my completed tasks sorted by months
 
+### List of websites which I use to find the tasks:
+1. [Codewars](https://codewars.com)
+2. [Codingbat](https://codingbat.com)
+3. [Hackerrank](https://www.hackerrank.com)
+4. [Codesignal (ex-CodeFights)](https://app.codesignal.com)
+5. [Codingame](https://www.codingame.com)
+6. ...
+
+### Java courses (uncontinued):
+1. [Head First Java](https://www.oreilly.com/library/view/head-first-java/0596009208/)
+2. [Thinking in Java](https://sophia.javeriana.edu.co/~cbustaca/docencia/POO-2016-01/documentos/Thinking_in_Java_4th_edition.pdf)
+3.
+
+### Books:
+1. 
+
 ## April:
 |   Count # |   Solved tasks      |   Complexity|   Group A / B|   Status|
 |-----------|-----------------------------|-------------|--------------|---------|
