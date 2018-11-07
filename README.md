@@ -67,5 +67,6 @@ Here goes the statistics of my completed tasks sorted by months
 |28         | BackAround                  |  8 Kyu      |      A       |   Done  |
 |29         | MixStart                    |  8 Kyu      |      A       |   Done  |
 |30         | Close10                     |  8 Kyu      |      A       |   Done  |
+|31         | ReverseWords                |  8 Kyu      |      A       |   Done  |
 
 
