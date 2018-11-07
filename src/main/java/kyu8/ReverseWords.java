@@ -4,12 +4,7 @@ public class ReverseWords {
     public static String reverseWords(String str){
 
         // Refer to: https://www.codewars.com/kata/reversed-words/train/java
-        /*
-        * 1. Convert a string to an array
-        * 2. Create a for loop
-        * 3. Iterate through the array and reverse the words
-        * 4. Convert the array back into the string
-        * */
+
         String output = "";
         String[] arrStr = str.split("\\s");
 
@@ -18,5 +13,13 @@ public class ReverseWords {
         }
         return output.replaceAll("(^\\h*)|(\\h*$)","");
     }
+
+    /*
+    * Might be a better solution:
+    *          List Words = Arrays.asList(str.split(" "));
+    *          Collections.reverse(Words);
+    *          return String.join(" ", Words);
+    *
+    * */
 
 }
