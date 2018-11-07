@@ -28,7 +28,8 @@ There are items I need to learn better and some are already learnt:
 6. [Learn Java Unit Testing with JUnit 5 in 20 Steps](https://www.udemy.com/junit-tutorial-for-beginners-with-java-examples/learn/v4/overview) TODO
 7. [Java Tutorial for Complete Beginners](https://www.udemy.com/java-tutorial/learn/v4/overview) TODO
 8. [Complete Step By Step Java For Testers](https://www.udemy.com/complete-java-for-test-automation/learn/v4/overview) TODO
-9. [Rule the Internet- With Java+Selenium WebDriver](https://www.udemy.com/draft/544980/learn/v4/overview) TODO
+9. [Rule the Internet - With Java+Selenium WebDriver](https://www.udemy.com/draft/544980/learn/v4/overview) TODO
+10. [Learn Java online](http://www.learnjavaonline.org/en/) TODO
 
 # Practice
 Here goes a list of tasks solved for some particular amount of time. I started logging them from April 2018, but there are a lot of untracked tasks and katas (referring to Codewars) which I solved a long ago before that.
@@ -84,6 +85,7 @@ Here goes a list of tasks solved for some particular amount of time. I started l
 |31         | ReverseWords                |  8 Kyu      |   Done  |
 |32         | AbbreviateTwoWords          |  8 Kyu      |   Done  |
 |33         | ToLeetSpeak                 |  7 Kyu      |   WIP   |
+|34         | GapfulNumbers               |  SLL        |   Done  |
 
 
 ## References:
