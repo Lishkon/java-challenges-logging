@@ -1,6 +1,10 @@
 # codewars-challenges
 
 Here goes the statistics of my completed tasks sorted by months
+# Theory
+There are items I need to learn better and some are already learnt:
+- [ ] This is to be filled
+- [x] This is to be crossed
 
 ### List of websites which I use to find the tasks:
 1. [Codewars](https://codewars.com)
@@ -15,9 +19,19 @@ Here goes the statistics of my completed tasks sorted by months
 2. [Thinking in Java](https://sophia.javeriana.edu.co/~cbustaca/docencia/POO-2016-01/documentos/Thinking_in_Java_4th_edition.pdf)
 3.
 
-### Courses:
-1. 
+### Courses and useful resources:
+1. [Introduction to Java Programming - Part 1](https://courses.edx.org/courses/course-v1:HKUSTx+COMP102.1x+3T2018/course/) INCOMPLETE
+2. [Java Programming: Solving Problems with Software](https://www.coursera.org/learn/java-programming/home/welcome) TODO
+3. [Code Yourself! An Introduction to Programming](https://www.coursera.org/learn/intro-programming/home/welcome) TODO
+4. [Intro to Java: Functional Programming](https://classroom.udacity.com/courses/ud282) TODO
+5. [Object Oriented Programming in Java](https://classroom.udacity.com/courses/ud283) TODO
+6. [Learn Java Unit Testing with JUnit 5 in 20 Steps](https://www.udemy.com/junit-tutorial-for-beginners-with-java-examples/learn/v4/overview) TODO
+7. [Java Tutorial for Complete Beginners](https://www.udemy.com/java-tutorial/learn/v4/overview) TODO
+8. [Complete Step By Step Java For Testers](https://www.udemy.com/complete-java-for-test-automation/learn/v4/overview) TODO
+9. [Rule the Internet- With Java+Selenium WebDriver](https://www.udemy.com/draft/544980/learn/v4/overview) TODO
 
+# Practice
+Here goes a list of tasks solved for some particular amount of time. I started logging them from April 2018, but there are a lot of untracked tasks and katas (referring to Codewars) which I solved a long ago before that.
 ## April:
 |   Count # |   Solved tasks              |   Complexity|      Status|
 |-----------|-----------------------------|-------------|------------|
@@ -69,6 +83,9 @@ Here goes the statistics of my completed tasks sorted by months
 |30         | Close10                     |  8 Kyu      |   Done  |
 |31         | ReverseWords                |  8 Kyu      |   Done  |
 |32         | AbbreviateTwoWords          |  8 Kyu      |   Done  |
+|33         | ToLeetSpeak                 |  7 Kyu      |   WIP   |
 
 
+## References:
 
+1. [jUnit official documentation](https://junit.org/junit4/javadoc/4.12/)
