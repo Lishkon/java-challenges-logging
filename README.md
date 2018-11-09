@@ -84,7 +84,7 @@ Here goes a list of tasks solved for some particular amount of time. I started l
 |30         | Close10                     |  8 Kyu      |   Done  |
 |31         | ReverseWords                |  8 Kyu      |   Done  |
 |32         | AbbreviateTwoWords          |  8 Kyu      |   Done  |
-|33         | ToLeetSpeak                 |  7 Kyu      |   WIP   |
+|33         | ToLeetSpeak                 |  7 Kyu      |   Done  |
 |34         | GapfulNumbers               |  SLL        |   Done  |
 
 
