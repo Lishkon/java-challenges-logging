@@ -88,6 +88,7 @@ Here goes a list of tasks solved for some particular amount of time. I started l
 |34         | GapfulNumbers               |  8 Kyu      |   Done  |
 |35         | ObjectChecker               |  8 Kyu      |   Done  |
 |36         | EveryNth                    |  8 Kyu      |   Done  |
+|37         | StringE                     |  8 Kyu      |   Done  |
 
 
 
