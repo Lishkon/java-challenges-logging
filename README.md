@@ -33,7 +33,7 @@ There are items I need to learn better and some are already learnt:
 
 # Practice
 Here goes a list of tasks solved for some particular amount of time. I started logging them from April 2018, but there are a lot of untracked tasks and katas (referring to Codewars) which I solved a long ago before that.
-## April:
+## April 2018:
 |   Count # |   Solved tasks              |   Complexity|      Status|
 |-----------|-----------------------------|-------------|------------|
 |1          | BasicOperations             |  8 Kyu      |      Done  |
@@ -42,7 +42,7 @@ Here goes a list of tasks solved for some particular amount of time. I started l
 |4          | NumberOfPeopleInTheBus      |  8 Kyu      |      WIP   |
 |5          | SmallestIntegerInTheArray   |  8 Kyu      |      Done  |
 
-## May:
+## May 2018:
 |   Count # |   Solved tasks                                  |  Complexity      |   Status     |
 |-----------|-------------------------------------------------|------------------|--------------|
 |6          | ReversedSequence                                |  8 Kyu           |     Done     |
@@ -57,12 +57,12 @@ Here goes a list of tasks solved for some particular amount of time. I started l
 |15         | God                                             |  8 Kyu           |     Done     |
 |16         | StringyStrings                                  |  8 Kyu           |      WIP     |
 
-## July:
+## July 2018:
 |   Count # |   Solved tasks              |   Complexity|   Status|
 |-----------|-----------------------------|-------------|---------|
 |17         | ConvertBooleanToString      |  8 Kyu      |    WIP  |
     
-## October:
+## October 2018:
 |   Count # |   Solved tasks              |   Complexity|   Status|
 |-----------|-----------------------------|-------------|---------|
 |18         | Accumul(Mumbling)           |  7 Kyu      |   Done  |
@@ -76,7 +76,7 @@ Here goes a list of tasks solved for some particular amount of time. I started l
 |26         | isDivisible                 |  8 Kyu      |   Done  |
 |27         | Maps                        |  8 Kyu      |   Done  |
 
-## November:
+## November 2018:
 |   Count # |   Solved tasks              |   Complexity|   Status|
 |-----------|-----------------------------|-------------|---------|
 |28         | BackAround                  |  8 Kyu      |   Done  |
@@ -85,8 +85,10 @@ Here goes a list of tasks solved for some particular amount of time. I started l
 |31         | ReverseWords                |  8 Kyu      |   Done  |
 |32         | AbbreviateTwoWords          |  8 Kyu      |   Done  |
 |33         | ToLeetSpeak                 |  7 Kyu      |   Done  |
-|34         | GapfulNumbers               |   SLL       |   Done  |
+|34         | GapfulNumbers               |  8 Kyu      |   Done  |
 |35         | ObjectChecker               |  8 Kyu      |   Done  |
+|36         | EveryNth                    |  8 Kyu      |   Done  |
+
 
 
 ## References:
