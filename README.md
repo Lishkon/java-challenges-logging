@@ -96,6 +96,7 @@ Here goes a list of tasks solved for some particular amount of time. I started l
 |42         | Front3                      |  8 Kyu      |   Done  |
 |43         | Front22                     |  8 Kyu      |   Done  |
 |44         | DelDel                      |  8 Kyu      |   Done  |
+|45         | IntMax                      |  8 Kyu      |   Done  |
 
 
 
