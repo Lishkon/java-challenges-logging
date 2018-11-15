@@ -95,6 +95,7 @@ Here goes a list of tasks solved for some particular amount of time. I started l
 |41         | In3050                      |  8 Kyu      |   Done  |
 |42         | Front3                      |  8 Kyu      |   Done  |
 |43         | Front22                     |  8 Kyu      |   Done  |
+|44         | DelDel                      |  8 Kyu      |   Done  |
 
 
 
