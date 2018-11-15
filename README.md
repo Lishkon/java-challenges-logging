@@ -93,7 +93,7 @@ Here goes a list of tasks solved for some particular amount of time. I started l
 |39         | FrontBack                   |  8 Kyu      |   Done  |
 |40         | StartOz                     |  8 Kyu      |   Done  |
 |41         | In3050                      |  8 Kyu      |   Done  |
-
+|42         | In3050                      |  8 Kyu      |   Done  |
 
 
 
