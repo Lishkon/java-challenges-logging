@@ -1,6 +1,6 @@
 package kyu8.WarmupTest;
 
-import kyu8.Warmup.StringE;
+import kyu8.Warmup01.StringE;
 import org.junit.Assert;
 import org.junit.Test;
 

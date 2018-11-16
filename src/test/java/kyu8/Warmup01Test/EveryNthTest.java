@@ -1,6 +1,6 @@
 package kyu8.WarmupTest;
 
-import kyu8.Warmup.EveryNth;
+import kyu8.Warmup01.EveryNth;
 import org.junit.Assert;
 import org.junit.Test;
 

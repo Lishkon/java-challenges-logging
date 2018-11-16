@@ -4,7 +4,7 @@ package kyu8.WarmupTest;
 // posNeg(-1, 1, false) → true
 // posNeg(-4, -5, true) → true
 
-import kyu8.Warmup.PosNeg;
+import kyu8.Warmup01.PosNeg;
 import org.junit.Assert;
 import org.junit.Test;
 

@@ -1,6 +1,6 @@
 package kyu8.WarmupTest;
 
-import kyu8.Warmup.MixStart;
+import kyu8.Warmup01.MixStart;
 import org.junit.Assert;
 import org.junit.Test;
 

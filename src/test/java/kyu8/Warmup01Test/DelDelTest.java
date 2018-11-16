@@ -1,6 +1,6 @@
 package kyu8.WarmupTest;
 
-import kyu8.Warmup.DelDel;
+import kyu8.Warmup01.DelDel;
 import org.junit.Assert;
 import org.junit.Test;
 

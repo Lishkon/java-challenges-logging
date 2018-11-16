@@ -1,6 +1,6 @@
 package kyu8.WarmupTest;
 
-import kyu8.Warmup.IntMax;
+import kyu8.Warmup01.IntMax;
 import org.junit.Assert;
 import org.junit.Test;
 
