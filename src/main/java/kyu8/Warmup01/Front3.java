@@ -1,4 +1,4 @@
-package kyu8.Warmup;
+package kyu8.Warmup01;
 
 public class Front3 {
     public String front3(String str) {

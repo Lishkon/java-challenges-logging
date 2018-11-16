@@ -1,4 +1,4 @@
-package kyu8.Warmup;
+package kyu8.Warmup01;
 
 public class PosNeg {
     public static boolean posNeg(int a, int b, boolean negative) {

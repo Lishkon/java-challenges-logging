@@ -1,4 +1,4 @@
-package kyu8.Warmup;
+package kyu8.Warmup01;
 
 public class IntMax {
     public int inMax (int a, int b, int c){

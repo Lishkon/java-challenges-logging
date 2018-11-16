@@ -1,4 +1,4 @@
-package kyu8.Warmup;
+package kyu8.Warmup01;
 
 public class StartOz {
     public String startOz(String str) {

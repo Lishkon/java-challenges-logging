@@ -1,4 +1,4 @@
-package kyu8.Warmup;
+package kyu8.Warmup01;
 
 public class Close10 {
     public static int close10(int a, int b) {

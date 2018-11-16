@@ -1,4 +1,4 @@
-package kyu8.Warmup;
+package kyu8.Warmup01;
 
 public class MixStart {
     public static boolean mixStart(String str){

@@ -1,4 +1,4 @@
-package kyu8.Warmup;
+package kyu8.Warmup01;
 
 /*
  *  Source: https://codingbat.com/prob/p123384

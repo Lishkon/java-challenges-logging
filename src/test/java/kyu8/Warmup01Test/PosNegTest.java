@@ -1,4 +1,4 @@
-package kyu8.WarmupTest;
+package kyu8.Warmup01Test;
 
 // posNeg(1, -1, false) → true
 // posNeg(-1, 1, false) → true
