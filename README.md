@@ -1,4 +1,4 @@
-# codewars-challenges
+# Java learning path
 
 Here goes the statistics of my completed tasks sorted by months
 # Theory
