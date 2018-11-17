@@ -28,6 +28,10 @@ There are items I need to learn better and some are already learnt:
 5. [Codingame](https://www.codingame.com)
 6. ...
 
+### My rules:
+1. It is better to do it less hard but regularly
+2. Read each day
+3. TBD
 
 # Books
 | Status | Title                                                                                                                                         |         Author              | Comments |
