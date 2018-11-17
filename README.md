@@ -1,6 +1,11 @@
 # Java learning path
 
-Here goes the statistics of my completed tasks sorted by months
+This is the repository dedicated to Java learning. I am going to keep track of my progress here using variety of options, including books/courses listing and so on.
+
+Actually, the only and one reason for me doing this is organizing my learning routine as well as keeping everything in a single place that can possibly be shared with anyone else.
+
+If you are passionate about learning any programming language, and need a tool to organize things up, I would be more than glad to know that my example helped and inspired you.
+
 # Theory
 There are items I need to learn better and some are already learnt:
 - [ ] This is to be filled
@@ -19,17 +24,20 @@ There are items I need to learn better and some are already learnt:
 2. [Thinking in Java](https://sophia.javeriana.edu.co/~cbustaca/docencia/POO-2016-01/documentos/Thinking_in_Java_4th_edition.pdf)
 3.
 
-### Courses and useful resources:
-1. [Introduction to Java Programming - Part 1](https://courses.edx.org/courses/course-v1:HKUSTx+COMP102.1x+3T2018/course/) INCOMPLETE
-2. [Java Programming: Solving Problems with Software](https://www.coursera.org/learn/java-programming/home/welcome) TODO
-3. [Code Yourself! An Introduction to Programming](https://www.coursera.org/learn/intro-programming/home/welcome) TODO
-4. [Intro to Java: Functional Programming](https://classroom.udacity.com/courses/ud282) TODO
-5. [Object Oriented Programming in Java](https://classroom.udacity.com/courses/ud283) TODO
-6. [Learn Java Unit Testing with JUnit 5 in 20 Steps](https://www.udemy.com/junit-tutorial-for-beginners-with-java-examples/learn/v4/overview) TODO
-7. [Java Tutorial for Complete Beginners](https://www.udemy.com/java-tutorial/learn/v4/overview) TODO
-8. [Complete Step By Step Java For Testers](https://www.udemy.com/complete-java-for-test-automation/learn/v4/overview) TODO
-9. [Rule the Internet - With Java+Selenium WebDriver](https://www.udemy.com/draft/544980/learn/v4/overview) TODO
-10. [Learn Java online](http://www.learnjavaonline.org/en/) TODO
+
+# Learning
+|    Status                      |  Date Started  |      Date Completed   |   Course                                                                                                              |    Tutor/Platform    |
+|--------------------------------|----------------|-----------------------|-----------------------------------------------------------------------------------------------------------------------|----------------------|
+|    :white_check_mark: Done     |    2017        |      March,2018       |[Java Tutorial for Complete Beginners](https://www.udemy.com/java-tutorial/learn/v4/overview)                          |      Udemy           |
+|    :white_check_mark: Done     |    2017        |      July,2018        |[Complete Step By Step Java For Testers](https://www.udemy.com/complete-java-for-test-automation/learn/v4/overview)    |      Udemy           |
+|    :white_medium_square: ToDo  |    2017        |                       |[Intro to Java: Functional Programming](https://classroom.udacity.com/courses/ud282)                                   |      Udacity         |
+|    :arrow_forward: WIP         |    2017        |                       |[Object Oriented Programming in Java](https://classroom.udacity.com/courses/ud283)                                     |      Udacity         |
+|    :white_medium_square: ToDo  |    2018        |                       |[Introduction to Java Programming - Part 1](https://courses.edx.org/courses/course-v1:HKUSTx+COMP102.1x+3T2018/course/)|      Edx             |
+|    :arrow_forward: WIP         |    2018        |                       |[CS50 - Introduction to Computer Science](https://courses.edx.org/courses/course-v1:HarvardX+CS50+X/course/)           |      Edx             |
+|                                |    2018        |                       |[Java Programming: Solving Problems with Software](https://www.coursera.org/learn/java-programming/home/welcome)       |      Coursera        |
+|                                |    2018        |                       |[Code Yourself! An Introduction to Programming](https://www.coursera.org/learn/intro-programming/home/welcome)         |      Coursera        |
+|                                |    2018        |                       |[Learn Java online](http://www.learnjavaonline.org/en/)                                                                |      3rd party       |
+|                                |    2017        |                       |[Learn Java Unit Testing with JUnit 5 in 20 Steps](https://www.udemy.com/junit-tutorial-for-beginners-with-java-examples/learn/v4/overview)     |      3rd party       |
 
 # Practice
 Here goes a list of tasks solved for some particular amount of time. I started logging them from April 2018, but there are a lot of untracked tasks and katas (referring to Codewars) which I solved a long ago before that.
