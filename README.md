@@ -40,6 +40,8 @@ There are items I need to learn better and some are already learnt:
 | WIP    |   [Thinking in Java](https://sophia.javeriana.edu.co/~cbustaca/docencia/POO-2016-01/documentos/Thinking_in_Java_4th_edition.pdf)              | Bruce Eckel                 |          |
 | ToDo   |   [Head First Object Oriented Analysis and Design](http://index-of.es/Programming/O'Reilly%20Desining%20Series/O'Reilly%20Head%20First%20Object-Oriented%20Design%20and%20Analysis.pdf)              | Bruce Eckel                 |          |
 | ToDo   |   [Java: The Complete Reference]()            |
+| ToDo   |   [Think Java: How to Think Like a Computer Scientist](http://greenteapress.com/wp/think-java/)            |
+
 
 # Learning
 |    Status                      |  Date Started  |      Date Completed   |   Course                                                                                                              |    Tutor/Platform    |
@@ -56,6 +58,10 @@ There are items I need to learn better and some are already learnt:
 |                                |    2018        |                       |[Learn Java online](http://www.learnjavaonline.org/en/)                                                                |      3rd party       |
 |                                |    2017        |                       |[Learn Java Unit Testing with JUnit 5 in 20 Steps](https://www.udemy.com/junit-tutorial-for-beginners-with-java-examples/learn/v4/overview)     |      3rd party       |
 |    :white_medium_square: ToDo  |    2018        |                       |[Алгоритмы: теория и практика. Структуры данных](https://stepik.org/course/1547/syllabus)                              |      Stepik          |
+|    :white_medium_square: ToDo  |                |                       |[UBCx: HtC1x How to Code: Simple Data](https://www.edx.org/course/how-code-simple-data-ubcx-htc1x)                     |      Edx             |
+|    :white_medium_square: ToDo  |                |                       |[UBCx: HtC1x How to Code: Complex Data](https://www.edx.org/course/how-code-complex-data-ubcx-htc2x)                   |      Edx             |
+|    :white_medium_square: ToDo  |                |                       |[Effective Thinking Through Mathematics](https://www.edx.org/course/effective-thinking-through-mathematics-utaustinx-ut-9-01x-0)                   |      Edx             |
+
 
 # Practice
 Here goes a list of tasks solved for some particular amount of time. I started logging them from April 2018, but there are a lot of untracked tasks and katas (referring to Codewars) which I solved a long ago before that.
@@ -132,3 +138,4 @@ Here goes a list of tasks solved for some particular amount of time. I started l
 ## References:
 
 1. [jUnit official documentation](https://junit.org/junit4/javadoc/4.12/)
+2. [Algorithms and Flowcharts](http://www.academia.edu/7857144/ALGORITHMS_AND_FLOWCHARTS)
