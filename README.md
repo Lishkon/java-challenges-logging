@@ -122,7 +122,7 @@ Here goes a list of tasks solved for some particular amount of time. I started l
 |44         | DelDel                      |  8 Kyu      |   Done  |
 |45         | IntMax                      |  8 Kyu      |   Done  |
 |46         | DoubleX                     |  8 Kyu      |   Done  |
-|47         | ArrayCount9                 |  8 Kyu      |   Done  |
+|47         | [ArrayCount9](main/java/kyu8/Warmup02/ArrayCount9.java)                 |  8 Kyu      |   Done  |
 
 
 
