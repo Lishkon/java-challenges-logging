@@ -46,6 +46,7 @@ There are items I need to learn better and some are already learnt:
 |--------------------------------|----------------|-----------------------|-----------------------------------------------------------------------------------------------------------------------|----------------------|
 |    :white_check_mark: Done     |    2017        |      March,2018       |[Java Tutorial for Complete Beginners](https://www.udemy.com/java-tutorial/learn/v4/overview)                          |      Udemy           |
 |    :white_check_mark: Done     |    2017        |      July,2018        |[Complete Step By Step Java For Testers](https://www.udemy.com/complete-java-for-test-automation/learn/v4/overview)    |      Udemy           |
+|    :arrow_forward: WIP         |    2018        |                       |[Java - Introduction](https://stepik.org/course/6858/syllabus)                                                         |      Stepik          |
 |    :white_medium_square: ToDo  |    2017        |                       |[Intro to Java: Functional Programming](https://classroom.udacity.com/courses/ud282)                                   |      Udacity         |
 |    :arrow_forward: WIP         |    2017        |                       |[Object Oriented Programming in Java](https://classroom.udacity.com/courses/ud283)                                     |      Udacity         |
 |    :white_medium_square: ToDo  |    2018        |                       |[Introduction to Java Programming - Part 1](https://courses.edx.org/courses/course-v1:HKUSTx+COMP102.1x+3T2018/course/)|      Edx             |
@@ -54,6 +55,7 @@ There are items I need to learn better and some are already learnt:
 |                                |    2018        |                       |[Code Yourself! An Introduction to Programming](https://www.coursera.org/learn/intro-programming/home/welcome)         |      Coursera        |
 |                                |    2018        |                       |[Learn Java online](http://www.learnjavaonline.org/en/)                                                                |      3rd party       |
 |                                |    2017        |                       |[Learn Java Unit Testing with JUnit 5 in 20 Steps](https://www.udemy.com/junit-tutorial-for-beginners-with-java-examples/learn/v4/overview)     |      3rd party       |
+|    :white_medium_square: ToDo  |    2018        |                       |[Алгоритмы: теория и практика. Структуры данных](https://stepik.org/course/1547/syllabus)                              |      Stepik          |
 
 # Practice
 Here goes a list of tasks solved for some particular amount of time. I started logging them from April 2018, but there are a lot of untracked tasks and katas (referring to Codewars) which I solved a long ago before that.
@@ -121,7 +123,7 @@ Here goes a list of tasks solved for some particular amount of time. I started l
 |43         | Front22                     |  8 Kyu      |   Done  |
 |44         | DelDel                      |  8 Kyu      |   Done  |
 |45         | IntMax                      |  8 Kyu      |   Done  |
-|46         | DoubleX                     |  8 Kyu      |   Done  |
+|46         | [DoubleX](src/main/java/kyu8/Warmup02/DoubleX.java)                     |  8 Kyu      |   Done  |
 |47         | [ArrayCount9](src/main/java/kyu8/Warmup02/ArrayCount9.java)                 |  8 Kyu      |   Done  |
 
 
