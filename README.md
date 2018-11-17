@@ -8,8 +8,17 @@ If you are passionate about learning any programming language, and need a tool t
 
 # Theory
 There are items I need to learn better and some are already learnt:
-- [ ] This is to be filled
-- [x] This is to be crossed
+- [ ] OOP Principles
+- [ ] Classes
+- [ ] Access identifiers
+- [ ] Stream API
+- [ ] Data types
+- [ ] Collections
+- [ ] Exception handling
+- [ ] I/O
+- [ ] Basic understanding of threading and concurrency
+- [ ] Basic design patterns like singleton, factory, etc.
+- [ ] ...
 
 ### List of websites which I use to find the tasks:
 1. [Codewars](https://codewars.com)
@@ -19,11 +28,14 @@ There are items I need to learn better and some are already learnt:
 5. [Codingame](https://www.codingame.com)
 6. ...
 
-### Java Books (uncontinued):
-1. [Head First Java](https://www.oreilly.com/library/view/head-first-java/0596009208/)
-2. [Thinking in Java](https://sophia.javeriana.edu.co/~cbustaca/docencia/POO-2016-01/documentos/Thinking_in_Java_4th_edition.pdf)
-3.
 
+# Books
+| Status | Title                                                                                                                                         |         Author              | Comments |
+|--------|-----------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------|----------|
+| WIP    |   [Head First Java](https://www.oreilly.com/library/view/head-first-java/0596009208/)                                                         | Bert Bates and Kathy Sierra |          |
+| WIP    |   [Thinking in Java](https://sophia.javeriana.edu.co/~cbustaca/docencia/POO-2016-01/documentos/Thinking_in_Java_4th_edition.pdf)              | Bruce Eckel                 |          |
+| ToDo   |   [Head First Object Oriented Analysis and Design](http://index-of.es/Programming/O'Reilly%20Desining%20Series/O'Reilly%20Head%20First%20Object-Oriented%20Design%20and%20Analysis.pdf)              | Bruce Eckel                 |          |
+| ToDo   |   [Java: The Complete Reference]()            |
 
 # Learning
 |    Status                      |  Date Started  |      Date Completed   |   Course                                                                                                              |    Tutor/Platform    |
