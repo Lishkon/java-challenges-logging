@@ -40,7 +40,7 @@ There are items I need to learn better and some are already learnt:
 # Learning
 |    Status                      |  Date Started  |      Date Completed   |   Course                                                                                                              |    Tutor/Platform    |
 |--------------------------------|----------------|-----------------------|-----------------------------------------------------------------------------------------------------------------------|----------------------|
-|    [x] Done     |    2017        |      March,2018       |[Java Tutorial for Complete Beginners](https://www.udemy.com/java-tutorial/learn/v4/overview)                          |      Udemy           |
+|  - [x] Done     |    2017        |      March,2018       |[Java Tutorial for Complete Beginners](https://www.udemy.com/java-tutorial/learn/v4/overview)                          |      Udemy           |
 |    :white_check_mark: Done     |    2017        |      July,2018        |[Complete Step By Step Java For Testers](https://www.udemy.com/complete-java-for-test-automation/learn/v4/overview)    |      Udemy           |
 |    :white_medium_square: ToDo  |    2017        |                       |[Intro to Java: Functional Programming](https://classroom.udacity.com/courses/ud282)                                   |      Udacity         |
 |    :arrow_forward: WIP         |    2017        |                       |[Object Oriented Programming in Java](https://classroom.udacity.com/courses/ud283)                                     |      Udacity         |
