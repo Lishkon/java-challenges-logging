@@ -125,12 +125,13 @@ Here goes a list of tasks solved for some particular amount of time. I started l
 |39         | FrontBack                   |  8 Kyu      |   Done  |
 |40         | StartOz                     |  8 Kyu      |   Done  |
 |41         | In3050                      |  8 Kyu      |   Done  |
-|42         | Front3                      |  8 Kyu      |   Done  |
-|43         | Front22                     |  8 Kyu      |   Done  |
-|44         | DelDel                      |  8 Kyu      |   Done  |
-|45         | IntMax                      |  8 Kyu      |   Done  |
+|42         | [Front3](src/main/java/kyu8/Warmup02/Front3.java)                      |  8 Kyu      |   Done  |
+|43         | [Front22](src/main/java/kyu8/Warmup02/Front22.java)                     |  8 Kyu      |   Done  |
+|44         | [DelDel](src/main/java/kyu8/Warmup02/DelDel.java)                      |  8 Kyu      |   Done  |
+|45         | [IntMax](src/main/java/kyu8/Warmup02/IntMax.java)                      |  8 Kyu      |   Done  |
 |46         | [DoubleX](src/main/java/kyu8/Warmup02/DoubleX.java)                     |  8 Kyu      |   Done  |
 |47         | [ArrayCount9](src/main/java/kyu8/Warmup02/ArrayCount9.java)                 |  8 Kyu      |   Done  |
+|48         | [NoTriples](src/main/java/kyu8/Warmup02/NoTriples.java)                 |  8 Kyu      |   Done  |
 
 
 
