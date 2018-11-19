@@ -37,10 +37,11 @@ There are items I need to learn better and some are already learnt:
 | Status | Title                                                                                                                                         |         Author              | Comments |
 |--------|-----------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------|----------|
 | WIP    |   [Head First Java](https://www.oreilly.com/library/view/head-first-java/0596009208/)                                                         | Bert Bates and Kathy Sierra |          |
-| WIP    |   [Thinking in Java](https://sophia.javeriana.edu.co/~cbustaca/docencia/POO-2016-01/documentos/Thinking_in_Java_4th_edition.pdf)              | Bruce Eckel                 |          |
-| ToDo   |   [Head First Object Oriented Analysis and Design](http://index-of.es/Programming/O'Reilly%20Desining%20Series/O'Reilly%20Head%20First%20Object-Oriented%20Design%20and%20Analysis.pdf)              | Bruce Eckel                 |          |
+| ReRead |   [Thinking in Java](https://sophia.javeriana.edu.co/~cbustaca/docencia/POO-2016-01/documentos/Thinking_in_Java_4th_edition.pdf)              | Bruce Eckel                 |          |
+| ToDo   |   [Head First Object Oriented Analysis and Design](http://index-of.es/Programming/O'Reilly%20Desining%20Series/O'Reilly%20Head%20First%20Object-Oriented%20Design%20and%20Analysis.pdf)              | Brett McLaughlin                 |          |
 | ToDo   |   [Java: The Complete Reference]()            |
 | ToDo   |   [Think Java: How to Think Like a Computer Scientist](http://greenteapress.com/wp/think-java/)            |
+| ToDo   |   [Clean Code: A Handbook of Agile Software Craftsmanship](https://www.investigatii.md/uploads/resurse/Clean_Code.pdf)            |
 
 
 # Learning
@@ -53,10 +54,10 @@ There are items I need to learn better and some are already learnt:
 |    :arrow_forward: WIP         |    2017        |                       |[Object Oriented Programming in Java](https://classroom.udacity.com/courses/ud283)                                     |      Udacity         |
 |    :white_medium_square: ToDo  |    2018        |                       |[Introduction to Java Programming - Part 1](https://courses.edx.org/courses/course-v1:HKUSTx+COMP102.1x+3T2018/course/)|      Edx             |
 |    :arrow_forward: WIP         |    2018        |                       |[CS50 - Introduction to Computer Science](https://courses.edx.org/courses/course-v1:HarvardX+CS50+X/course/)           |      Edx             |
-|                                |    2018        |                       |[Java Programming: Solving Problems with Software](https://www.coursera.org/learn/java-programming/home/welcome)       |      Coursera        |
-|                                |    2018        |                       |[Code Yourself! An Introduction to Programming](https://www.coursera.org/learn/intro-programming/home/welcome)         |      Coursera        |
-|                                |    2018        |                       |[Learn Java online](http://www.learnjavaonline.org/en/)                                                                |      3rd party       |
-|                                |    2017        |                       |[Learn Java Unit Testing with JUnit 5 in 20 Steps](https://www.udemy.com/junit-tutorial-for-beginners-with-java-examples/learn/v4/overview)     |      3rd party       |
+|    :white_medium_square: ToDo  |    2018        |                       |[Java Programming: Solving Problems with Software](https://www.coursera.org/learn/java-programming/home/welcome)       |      Coursera        |
+|    :white_medium_square: ToDo  |    2018        |                       |[Code Yourself! An Introduction to Programming](https://www.coursera.org/learn/intro-programming/home/welcome)         |      Coursera        |
+|    :white_medium_square: ToDo  |    2018        |                       |[Learn Java online](http://www.learnjavaonline.org/en/)                                                                |      3rd party       |
+|    :white_medium_square: ToDo  |    2017        |                       |[Learn Java Unit Testing with JUnit 5 in 20 Steps](https://www.udemy.com/junit-tutorial-for-beginners-with-java-examples/learn/v4/overview)     |      3rd party       |
 |    :white_medium_square: ToDo  |    2018        |                       |[Алгоритмы: теория и практика. Структуры данных](https://stepik.org/course/1547/syllabus)                              |      Stepik          |
 |    :white_medium_square: ToDo  |                |                       |[UBCx: HtC1x How to Code: Simple Data](https://www.edx.org/course/how-code-simple-data-ubcx-htc1x)                     |      Edx             |
 |    :white_medium_square: ToDo  |                |                       |[UBCx: HtC1x How to Code: Complex Data](https://www.edx.org/course/how-code-complex-data-ubcx-htc2x)                   |      Edx             |
@@ -65,48 +66,6 @@ There are items I need to learn better and some are already learnt:
 
 # Practice
 Here goes a list of tasks solved for some particular amount of time. I started logging them from April 2018, but there are a lot of untracked tasks and katas (referring to Codewars) which I solved a long ago before that.
-## April 2018:
-|   Count # |   Solved tasks              |   Complexity|      Status|
-|-----------|-----------------------------|-------------|------------|
-|1          | BasicOperations             |  8 Kyu      |      Done  |
-|2          | RemoveChars                 |  8 Kyu      |      Done  |
-|3          | RemoveStringSpaces          |  8 Kyu      |      Done  |
-|4          | NumberOfPeopleInTheBus      |  8 Kyu      |      WIP   |
-|5          | SmallestIntegerInTheArray   |  8 Kyu      |      Done  |
-
-## May 2018:
-|   Count # |   Solved tasks                                  |  Complexity      |   Status     |
-|-----------|-------------------------------------------------|------------------|--------------|
-|6          | ReversedSequence                                |  8 Kyu           |     Done     |
-|7          | Expressions                                     |  8 Kyu           |     Done     |
-|8          | Thinkful - Logic Drills: Traffic light          |  8 Kyu           |     Done     |
-|9          | SumOfPositive                                   |  8 Kyu           |     Done     |
-|10         | ConverToBinary                                  |  8 Kyu           |     Done     |
-|11         | PaperFolder                                     |  8 Kyu           |     WIP      |
-|12         | TrafficLights                                   |  8 Kyu           |     Done     |
-|13         | OutputFormatting                                |  8 Kyu           |     Done     |
-|14         | HaystackNeedle                                  |  8 Kyu           |     Done     |
-|15         | God                                             |  8 Kyu           |     Done     |
-|16         | StringyStrings                                  |  8 Kyu           |      WIP     |
-
-## July 2018:
-|   Count # |   Solved tasks              |   Complexity|   Status|
-|-----------|-----------------------------|-------------|---------|
-|17         | ConvertBooleanToString      |  8 Kyu      |    WIP  |
-    
-## October 2018:
-|   Count # |   Solved tasks              |   Complexity|   Status|
-|-----------|-----------------------------|-------------|---------|
-|18         | Accumul(Mumbling)           |  7 Kyu      |   Done  |
-|19         | StringRepeat                |  8 Kyu      |   Done  |
-|20         | CountingSheep               |  8 Kyu      |   Done  |
-|21         | ReverseWords                |  8 Kyu      |   WIP   |
-|22         | ReduceButGrow               |  8 Kyu      |   Done  |
-|23         | OppositesAttract            |  8 Kyu      |   Done  |
-|24         | WrongEndHead                |  8 Kyu      |   WIP   |
-|25         | OddCount                    |  8 Kyu      |   Done  |
-|26         | isDivisible                 |  8 Kyu      |   Done  |
-|27         | Maps                        |  8 Kyu      |   Done  |
 
 ## November 2018:
 |   Count # |   Solved tasks              |   Complexity|   Status|
@@ -132,8 +91,54 @@ Here goes a list of tasks solved for some particular amount of time. I started l
 |46         | [DoubleX](src/main/java/kyu8/Warmup02/DoubleX.java)                     |  8 Kyu      |   Done  |
 |47         | [ArrayCount9](src/main/java/kyu8/Warmup02/ArrayCount9.java)                 |  8 Kyu      |   Done  |
 |48         | [NoTriples](src/main/java/kyu8/Warmup02/NoTriples.java)                 |  8 Kyu      |   Done  |
+|49         | [FizzString](src/main/java/kyu8/FizzBuzzCode/FizzString.java)                 |  8 Kyu      |   Done  |
 
 
+## October 2018:
+|   Count # |   Solved tasks              |   Complexity|   Status|
+|-----------|-----------------------------|-------------|---------|
+|18         | Accumul(Mumbling)           |  7 Kyu      |   Done  |
+|19         | StringRepeat                |  8 Kyu      |   Done  |
+|20         | CountingSheep               |  8 Kyu      |   Done  |
+|21         | ReverseWords                |  8 Kyu      |   WIP   |
+|22         | ReduceButGrow               |  8 Kyu      |   Done  |
+|23         | OppositesAttract            |  8 Kyu      |   Done  |
+|24         | WrongEndHead                |  8 Kyu      |   WIP   |
+|25         | OddCount                    |  8 Kyu      |   Done  |
+|26         | isDivisible                 |  8 Kyu      |   Done  |
+|27         | Maps                        |  8 Kyu      |   Done  |
+
+
+## July 2018:
+|   Count # |   Solved tasks              |   Complexity|   Status|
+|-----------|-----------------------------|-------------|---------|
+|17         | ConvertBooleanToString      |  8 Kyu      |    WIP  |
+
+
+## May 2018:
+|   Count # |   Solved tasks                                  |  Complexity      |   Status     |
+|-----------|-------------------------------------------------|------------------|--------------|
+|6          | ReversedSequence                                |  8 Kyu           |     Done     |
+|7          | Expressions                                     |  8 Kyu           |     Done     |
+|8          | Thinkful - Logic Drills: Traffic light          |  8 Kyu           |     Done     |
+|9          | SumOfPositive                                   |  8 Kyu           |     Done     |
+|10         | ConverToBinary                                  |  8 Kyu           |     Done     |
+|11         | PaperFolder                                     |  8 Kyu           |     WIP      |
+|12         | TrafficLights                                   |  8 Kyu           |     Done     |
+|13         | OutputFormatting                                |  8 Kyu           |     Done     |
+|14         | HaystackNeedle                                  |  8 Kyu           |     Done     |
+|15         | God                                             |  8 Kyu           |     Done     |
+|16         | StringyStrings                                  |  8 Kyu           |      WIP     |
+
+
+## April 2018:
+|   Count # |   Solved tasks              |   Complexity|      Status|
+|-----------|-----------------------------|-------------|------------|
+|1          | BasicOperations             |  8 Kyu      |      Done  |
+|2          | RemoveChars                 |  8 Kyu      |      Done  |
+|3          | RemoveStringSpaces          |  8 Kyu      |      Done  |
+|4          | NumberOfPeopleInTheBus      |  8 Kyu      |      WIP   |
+|5          | SmallestIntegerInTheArray   |  8 Kyu      |      Done  |
 
 
 ## References:
