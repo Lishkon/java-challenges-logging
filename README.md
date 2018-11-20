@@ -33,6 +33,9 @@ There are items I need to learn better and some are already learnt:
 2. Read each day
 3. TBD
 
+### Progress Logging
+- [Daily Logs](DAILYLOGS.md)
+
 # Books
 | Status | Title                                                                                                                                         |         Author              | Comments |
 |--------|-----------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------|----------|
