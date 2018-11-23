@@ -99,7 +99,7 @@ Here goes a list of tasks solved for some particular amount of time. I started l
 |49         | [FizzString](src/main/java/CodingBat/FizzBuzzCode/FizzString.java)                 |  8 Kyu      |   Done  |
 |50         | [FizzString2](src/main/java/CodingBat/FizzBuzzCode/FizzString2.java)                 |  8 Kyu      |   Done  |
 |51         | [FizzArray](src/main/java/CodingBat/FizzBuzzCode/FizzArray.java)                 |  8 Kyu      |   Done  |
-|51         | [FizzArray2](src/main/java/CodingBat/FizzBuzzCode/FizzArray2.java)                 |  8 Kyu      |   Done  |
+|52         | [FizzArray2](src/main/java/CodingBat/FizzBuzzCode/FizzArray2.java)                 |  8 Kyu      |   Done  |
 
 
 ## October 2018:
