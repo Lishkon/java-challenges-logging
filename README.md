@@ -67,6 +67,7 @@ There are items I need to learn better and some are already learnt:
 |    :white_medium_square: ToDo  |                |                       |[UBCx: HtC1x How to Code: Simple Data](https://www.edx.org/course/how-code-simple-data-ubcx-htc1x)                     |      Edx             |
 |    :white_medium_square: ToDo  |                |                       |[UBCx: HtC1x How to Code: Complex Data](https://www.edx.org/course/how-code-complex-data-ubcx-htc2x)                   |      Edx             |
 |    :white_medium_square: ToDo  |                |                       |[Effective Thinking Through Mathematics](https://www.edx.org/course/effective-thinking-through-mathematics-utaustinx-ut-9-01x-0)                   |      Edx             |
+|    :white_medium_square: ToDo  |                |                       |[Intro to Algorithms](https://www.udacity.com/course/intro-to-algorithms--cs215)                                       |      Udacity         |
 
 
 # Practice
@@ -100,6 +101,7 @@ Here goes a list of tasks solved for some particular amount of time. I started l
 |50         | [FizzString2](src/main/java/CodingBat/FizzBuzzCode/FizzString2.java)                 |  8 Kyu      |   Done  |
 |51         | [FizzArray](src/main/java/CodingBat/FizzBuzzCode/FizzArray.java)                 |  8 Kyu      |   Done  |
 |52         | [FizzArray2](src/main/java/CodingBat/FizzBuzzCode/FizzArray2.java)                 |  8 Kyu      |   Done  |
+|53         | [FizzArray3](src/main/java/CodingBat/FizzBuzzCode/FizzArray3.java)                 |  8 Kyu      |   Done  |
 
 
 ## October 2018:
