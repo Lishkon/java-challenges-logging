@@ -43,6 +43,7 @@ There are items I need to learn better and some are already learnt:
 | ReRead |   [Thinking in Java](https://sophia.javeriana.edu.co/~cbustaca/docencia/POO-2016-01/documentos/Thinking_in_Java_4th_edition.pdf)              | Bruce Eckel                 |          |
 | ToDo   |   [Head First Object Oriented Analysis and Design](http://index-of.es/Programming/O'Reilly%20Desining%20Series/O'Reilly%20Head%20First%20Object-Oriented%20Design%20and%20Analysis.pdf)              | Brett McLaughlin                 |          |
 | ToDo   |   [Java: The Complete Reference]()            |
+| ToDo   |   [Java in a Nutshell]()            | Benjamin Evans, David Flanagan            |
 | ToDo   |   [Think Java: How to Think Like a Computer Scientist](http://greenteapress.com/wp/think-java/)            |
 | ToDo   |   [Clean Code: A Handbook of Agile Software Craftsmanship](https://www.investigatii.md/uploads/resurse/Clean_Code.pdf)            |
 
@@ -81,21 +82,24 @@ Here goes a list of tasks solved for some particular amount of time. I started l
 |32         | AbbreviateTwoWords          |  8 Kyu      |   Done  |
 |33         | ToLeetSpeak                 |  7 Kyu      |   Done  |
 |34         | GapfulNumbers               |  8 Kyu      |   Done  |
-|35         | ObjectChecker               |  8 Kyu      |   Done  |
-|36         | EveryNth                    |  8 Kyu      |   Done  |
-|37         | StringE                     |  8 Kyu      |   Done  |
-|38         | PosNeg                      |  8 Kyu      |   Done  |
-|39         | FrontBack                   |  8 Kyu      |   Done  |
-|40         | StartOz                     |  8 Kyu      |   Done  |
-|41         | In3050                      |  8 Kyu      |   Done  |
-|42         | [Front3](src/main/java/kyu8/Warmup02/Front3.java)                      |  8 Kyu      |   Done  |
-|43         | [Front22](src/main/java/kyu8/Warmup02/Front22.java)                     |  8 Kyu      |   Done  |
-|44         | [DelDel](src/main/java/kyu8/Warmup02/DelDel.java)                      |  8 Kyu      |   Done  |
-|45         | [IntMax](src/main/java/kyu8/Warmup02/IntMax.java)                      |  8 Kyu      |   Done  |
-|46         | [DoubleX](src/main/java/kyu8/Warmup02/DoubleX.java)                     |  8 Kyu      |   Done  |
-|47         | [ArrayCount9](src/main/java/kyu8/Warmup02/ArrayCount9.java)                 |  8 Kyu      |   Done  |
-|48         | [NoTriples](src/main/java/kyu8/Warmup02/NoTriples.java)                 |  8 Kyu      |   Done  |
-|49         | [FizzString](src/main/java/kyu8/FizzBuzzCode/FizzString.java)                 |  8 Kyu      |   Done  |
+|35         | [ObjectChecker](src/main/java/Codewars/kyu8/ObjectChecker.java)   |  8 Kyu      |   Done  |
+|36         | [EveryNth](src/main/java/CodingBat/Warmup01/EveryNth.java)                    |  8 Kyu      |   Done  |
+|37         | [StringE](src/main/java/CodingBat/Warmup01/StringE.java)                     |  8 Kyu      |   Done  |
+|38         | [PosNeg](src/main/java/CodingBat/Warmup01/PosNeg.java) |  8 Kyu      |   Done  |
+|39         | [FrontBack](src/main/java/CodingBat/Warmup01/FrontBack.java)                   |  8 Kyu      |   Done  |
+|40         | [StartOz](src/main/java/CodingBat/Warmup01/StartOz.java)                     |  8 Kyu      |   Done  |
+|41         | [In3050](src/main/java/CodingBat/Warmup01/In3050.java)                      |  8 Kyu      |   Done  |
+|42         | [Front3](src/main/java/CodingBat/Warmup01/Front3.java)                      |  8 Kyu      |   Done  |
+|43         | [Front22](src/main/java/CodingBat/Warmup01/Front22.java)                     |  8 Kyu      |   Done  |
+|44         | [DelDel](src/main/java/CodingBat/Warmup01/DelDel.java)                      |  8 Kyu      |   Done  |
+|45         | [IntMax](src/main/java/CodingBat/Warmup01/IntMax.java)                      |  8 Kyu      |   Done  |
+|46         | [DoubleX](src/main/java/CodingBat/Warmup02/DoubleX.java)                     |  8 Kyu      |   Done  |
+|47         | [ArrayCount9](src/main/java/CodingBat/Warmup02/ArrayCount9.java)                 |  8 Kyu      |   Done  |
+|48         | [NoTriples](src/main/java/CodingBat/Warmup02/NoTriples.java)                 |  8 Kyu      |   Done  |
+|49         | [FizzString](src/main/java/CodingBat/FizzBuzzCode/FizzString.java)                 |  8 Kyu      |   Done  |
+|50         | [FizzString2](src/main/java/CodingBat/FizzBuzzCode/FizzString2.java)                 |  8 Kyu      |   Done  |
+|51         | [FizzArray](src/main/java/CodingBat/FizzBuzzCode/FizzArray.java)                 |  8 Kyu      |   Done  |
+|51         | [FizzArray2](src/main/java/CodingBat/FizzBuzzCode/FizzArray2.java)                 |  8 Kyu      |   Done  |
 
 
 ## October 2018:
