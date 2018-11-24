@@ -76,9 +76,9 @@ Here goes a list of tasks solved for some particular amount of time. I started l
 ## November 2018:
 |   Count # |   Solved tasks              |   Complexity|   Status|
 |-----------|-----------------------------|-------------|---------|
-|28         | [BackAround](src/main/java/Codingbat/Warmup01/BackAround.java)                  |  8 Kyu      |   Done  |
-|29         | [MixStart](src/main/java/Codingbat/Warmup01/MixSTart.java)      |  8 Kyu      |   Done  |
-|30         | [Close10](src/main/java/Codingbat/Warmup01/Close10.java)                     |  8 Kyu      |   Done  |
+|28         | [BackAround](src/main/java/CodingBat/Warmup01/BackAround.java)                  |  8 Kyu      |   Done  |
+|29         | [MixStart](src/main/java/CodingBat/Warmup01/MixSTart.java)      |  8 Kyu      |   Done  |
+|30         | [Close10](src/main/java/CodingBat/Warmup01/Close10.java)                     |  8 Kyu      |   Done  |
 |31         | [ReverseWords](src/main/java/Codewars/kyu8/ReverseWords.java)                |  8 Kyu      |   Done  |
 |32         | [AbbreviateTwoWords](src/main/java/Codewars/kyu8/AbbreviateTwoWords.java)          |  8 Kyu      |   Done  |
 |33         | [ToLeetSpeak](src/main/java/Codewars/kyu7/ToLeetSpeak.java)                 |  7 Kyu      |   Done  |
