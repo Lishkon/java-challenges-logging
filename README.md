@@ -76,13 +76,13 @@ Here goes a list of tasks solved for some particular amount of time. I started l
 ## November 2018:
 |   Count # |   Solved tasks              |   Complexity|   Status|
 |-----------|-----------------------------|-------------|---------|
-|28         | BackAround                  |  8 Kyu      |   Done  |
-|29         | MixStart                    |  8 Kyu      |   Done  |
-|30         | Close10                     |  8 Kyu      |   Done  |
-|31         | ReverseWords                |  8 Kyu      |   Done  |
-|32         | AbbreviateTwoWords          |  8 Kyu      |   Done  |
-|33         | ToLeetSpeak                 |  7 Kyu      |   Done  |
-|34         | GapfulNumbers               |  8 Kyu      |   Done  |
+|28         | [BackAround](src/main/java/Codingbat/Warmup01/BackAround.java)                  |  8 Kyu      |   Done  |
+|29         | [MixStart](src/main/java/Codingbat/Warmup01/MixSTart.java)      |  8 Kyu      |   Done  |
+|30         | [Close10](src/main/java/Codingbat/Warmup01/Close10.java)                     |  8 Kyu      |   Done  |
+|31         | [ReverseWords](src/main/java/Codewars/kyu8/ReverseWords.java)                |  8 Kyu      |   Done  |
+|32         | [AbbreviateTwoWords](src/main/java/Codewars/kyu8/AbbreviateTwoWords.java)          |  8 Kyu      |   Done  |
+|33         | [ToLeetSpeak](src/main/java/Codewars/kyu7/ToLeetSpeak.java)                 |  7 Kyu      |   Done  |
+|34         | [GapfulNumbers](src/main/java/SoloLearn/GapfulNumbers.java)               |  8 Kyu      |   Done  |
 |35         | [ObjectChecker](src/main/java/Codewars/kyu8/ObjectChecker.java)   |  8 Kyu      |   Done  |
 |36         | [EveryNth](src/main/java/CodingBat/Warmup01/EveryNth.java)                    |  8 Kyu      |   Done  |
 |37         | [StringE](src/main/java/CodingBat/Warmup01/StringE.java)                     |  8 Kyu      |   Done  |
@@ -102,6 +102,7 @@ Here goes a list of tasks solved for some particular amount of time. I started l
 |51         | [FizzArray](src/main/java/CodingBat/FizzBuzzCode/FizzArray.java)                 |  8 Kyu      |   Done  |
 |52         | [FizzArray2](src/main/java/CodingBat/FizzBuzzCode/FizzArray2.java)                 |  8 Kyu      |   Done  |
 |53         | [FizzArray3](src/main/java/CodingBat/FizzBuzzCode/FizzArray3.java)                 |  8 Kyu      |   Done  |
+|54         | [FizzBuzz](src/main/java/CodingBat/FizzBuzzCode/FizzBuzz.java)                 |  8 Kyu      |   Done  |
 
 
 ## October 2018:
