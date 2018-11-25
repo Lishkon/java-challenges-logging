@@ -113,6 +113,7 @@ Here goes a list of tasks solved for some particular amount of time. I started l
 |62         | [MiddleThree](src/main/java/CodingBat/String01/MiddleThree.java)                 |  8 Kyu      |   Done  |
 |63         | [LastChars](src/main/java/CodingBat/String01/LastChars.java)                 |  8 Kyu      |   Done  |
 |64         | [SeeColor](src/main/java/CodingBat/String01/SeeColor.java)                 |  8 Kyu      |   Done  |
+|65         | [ExtraFront](src/main/java/CodingBat/String01/ExtraFront.java)                 |  8 Kyu      |   Done  |
 
 
 
