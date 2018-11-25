@@ -77,7 +77,7 @@ Here goes a list of tasks solved for some particular amount of time. I started l
 |   Count # |   Solved tasks              |   Complexity|   Status|
 |-----------|-----------------------------|-------------|---------|
 |28         | [BackAround](src/main/java/CodingBat/Warmup01/BackAround.java)                  |  8 Kyu      |   Done  |
-|29         | [MixStart](src/main/java/CodingBat/Warmup01/MixSTart.java)      |  8 Kyu      |   Done  |
+|29         | [MixStart](src/main/java/CodingBat/Warmup01/MixStart.java)      |  8 Kyu      |   Done  |
 |30         | [Close10](src/main/java/CodingBat/Warmup01/Close10.java)                     |  8 Kyu      |   Done  |
 |31         | [ReverseWords](src/main/java/Codewars/kyu8/ReverseWords.java)                |  8 Kyu      |   Done  |
 |32         | [AbbreviateTwoWords](src/main/java/Codewars/kyu8/AbbreviateTwoWords.java)          |  8 Kyu      |   Done  |
@@ -103,6 +103,10 @@ Here goes a list of tasks solved for some particular amount of time. I started l
 |52         | [FizzArray2](src/main/java/CodingBat/FizzBuzzCode/FizzArray2.java)                 |  8 Kyu      |   Done  |
 |53         | [FizzArray3](src/main/java/CodingBat/FizzBuzzCode/FizzArray3.java)                 |  8 Kyu      |   Done  |
 |54         | [FizzBuzz](src/main/java/CodingBat/FizzBuzzCode/FizzBuzz.java)                 |  8 Kyu      |   Done  |
+|55         | [HelloName](src/main/java/CodingBat/String01/HelloName.java)                 |  8 Kyu      |   Done  |
+|56         | [MakeOutWord](src/main/java/CodingBat/String01/MakeOutWord.java)                 |  8 Kyu      |   Done  |
+|57         | [FirstHalf](src/main/java/CodingBat/String01/FirstHalf.java)                 |  8 Kyu      |   Done  |
+
 
 
 ## October 2018:
