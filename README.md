@@ -106,6 +106,7 @@ Here goes a list of tasks solved for some particular amount of time. I started l
 |55         | [HelloName](src/main/java/CodingBat/String01/HelloName.java)                 |  8 Kyu      |   Done  |
 |56         | [MakeOutWord](src/main/java/CodingBat/String01/MakeOutWord.java)                 |  8 Kyu      |   Done  |
 |57         | [FirstHalf](src/main/java/CodingBat/String01/FirstHalf.java)                 |  8 Kyu      |   Done  |
+|58         | [TheEnd](src/main/java/CodingBat/String01/TheEnd.java)                 |  8 Kyu      |   Done  |
 
 
 
