@@ -109,6 +109,7 @@ Here goes a list of tasks solved for some particular amount of time. I started l
 |58         | [TheEnd](src/main/java/CodingBat/String01/TheEnd.java)                 |  8 Kyu      |   Done  |
 |59         | [WithouEnd2](src/main/java/CodingBat/String01/WithouEnd2.java)                 |  8 Kyu      |   Done  |
 |60         | [MiddleTwo](src/main/java/CodingBat/String01/MiddleTwo.java)                 |  8 Kyu      |   Done  |
+|61         | [EndsLy](src/main/java/CodingBat/String01/EndsLy.java)                 |  8 Kyu      |   Done  |
 
 
 
