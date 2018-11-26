@@ -118,6 +118,7 @@ Here goes a list of tasks solved for some particular amount of time. I started l
 |67         | [WithoutEnd](src/main/java/CodingBat/String01/WithoutEnd.java)                 |  8 Kyu      |   Done  |
 |68         | [Left2](src/main/java/CodingBat/String01/Left2.java)                 |  8 Kyu      |   Done  |
 |69         | [NTwice](src/main/java/CodingBat/String01/NTwice.java)                 |  8 Kyu      |   Done  |
+|70         | [HasBad](src/main/java/CodingBat/String01/HasBad.java)                 |  8 Kyu      |   Done  |
 
 
 
