@@ -120,6 +120,7 @@ Here goes a list of tasks solved for some particular amount of time. I started l
 |69         | [NTwice](src/main/java/CodingBat/String01/NTwice.java)                 |  8 Kyu      |   Done  |
 |70         | [HasBad](src/main/java/CodingBat/String01/HasBad.java)                 |  8 Kyu      |   Done  |
 |71         | [ConCat](src/main/java/CodingBat/String01/ConCat.java)                 |  8 Kyu      |   Done  |
+|72         | [FrontAgain](src/main/java/CodingBat/String01/FrontAgain.java)                 |  8 Kyu      |   Done  |
 
 
 
