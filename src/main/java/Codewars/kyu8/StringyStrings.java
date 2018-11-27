@@ -12,27 +12,16 @@ package Codewars.kyu8;
  *  See the url for this particular kata: <br>
  *      https://www.codewars.com/kata/stringy-strings/train/java
  * */
-public class StringyStrings {
+class StringyStrings {
+    static String stringy(int size) {
+        StringBuilder res = new StringBuilder("1");
+        if (size > 0) {
+            for (int i = 1; i < size; i++) {
+                res.append(res.toString().endsWith("1") ? "0" : "1");
+            }
+        } else res = new StringBuilder(size);
 
-
-    public static void main(String[] args) {
-        int size = 2;
-        String output = "";
-        int outputLength = output.length();
-        char[] arryed = {};
-
-
-//        for (int i = 0; i < size; i++) {
-//
-//            output.toCharArray();
-//            arryed[0] = 1;
-//            arryed
-//
-//
-//        }
-        output = arryed.toString();
-        System.out.println(output);
+        return res.toString();
 
     }
-
 }

@@ -159,7 +159,7 @@ Here goes a list of tasks solved for some particular amount of time. I started l
 |13         | OutputFormatting                                |  8 Kyu           |     Done     |
 |14         | HaystackNeedle                                  |  8 Kyu           |     Done     |
 |15         | God                                             |  8 Kyu           |     Done     |
-|16         | StringyStrings                                  |  8 Kyu           |      WIP     |
+|16         | StringyStrings                                  |  8 Kyu           |     Done     |
 
 
 ## April 2018:
