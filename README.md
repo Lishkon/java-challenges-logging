@@ -125,6 +125,7 @@ Here goes a list of tasks solved for some particular amount of time. I started l
 | 47            |74               | [WithoutX](src/main/java/CodingBat/String01/WithoutX.java)                   |  8 Kyu      |   Done  |
 | 48            |75               | [MakeAbba](src/main/java/CodingBat/String01/MakeAbba.java)                   |  8 Kyu      |   Done  |
 | 49            |76               | [MakeTags](src/main/java/CodingBat/String01/MakeTags.java)                   |  8 Kyu      |   Done  |
+| 50            |77               | [FirstTwo](src/main/java/CodingBat/String01/FirstTwo.java)                   |  8 Kyu      |   Done  |
 
 
 
