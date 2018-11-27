@@ -126,24 +126,24 @@ Here goes a list of tasks solved for some particular amount of time. I started l
 
 
 ## October 2018:
-|   Count # |   Solved tasks              |   Complexity|   Status|
-|-----------|-----------------------------|-------------|---------|
-|18         | Accumul(Mumbling)           |  7 Kyu      |   Done  |
-|19         | StringRepeat                |  8 Kyu      |   Done  |
-|20         | CountingSheep               |  8 Kyu      |   Done  |
-|21         | ReverseWords                |  8 Kyu      |   WIP   |
-|22         | ReduceButGrow               |  8 Kyu      |   Done  |
-|23         | OppositesAttract            |  8 Kyu      |   Done  |
-|24         | WrongEndHead                |  8 Kyu      |   WIP   |
-|25         | OddCount                    |  8 Kyu      |   Done  |
-|26         | isDivisible                 |  8 Kyu      |   Done  |
-|27         | Maps                        |  8 Kyu      |   Done  |
+| Monthly count |   Total Count # |   Solved tasks              |   Complexity|   Status|
+|---------------|-----------------|-----------------------------|-------------|---------|
+|01             |18               | Accumul(Mumbling)           |  7 Kyu      |   Done  |
+|02             |19               | StringRepeat                |  8 Kyu      |   Done  |
+|03             |20               | CountingSheep               |  8 Kyu      |   Done  |
+|04             |21               | ReverseWords                |  8 Kyu      |   WIP   |
+|05             |22               | ReduceButGrow               |  8 Kyu      |   Done  |
+|06             |23               | OppositesAttract            |  8 Kyu      |   Done  |
+|07             |24               | WrongEndHead                |  8 Kyu      |   WIP   |
+|08             |25               | OddCount                    |  8 Kyu      |   Done  |
+|09             |26               | isDivisible                 |  8 Kyu      |   Done  |
+|10             |27               | Maps                        |  8 Kyu      |   Done  |
 
 
 ## July 2018:
-|   Count # |   Solved tasks              |   Complexity|   Status|
-|-----------|-----------------------------|-------------|---------|
-|17         | ConvertBooleanToString      |  8 Kyu      |    WIP  |
+| Monthly count |   Total Count # |   Solved tasks              |   Complexity|   Status|
+|---------------|-----------------|-----------------------------|-------------|---------|
+| 01            |17               | ConvertBooleanToString      |  8 Kyu      |   Done  |
 
 
 ## May 2018:
