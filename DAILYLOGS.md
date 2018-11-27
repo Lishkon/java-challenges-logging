@@ -5,6 +5,12 @@
     2. Day #
     3. Activity (-ies)
 
+ Nov 27, 2018, Day 8:
+   - [x] Worked on String puzzle section on CodingBat
+   - [x] Completed few WIP puzzles (StringyStrings, ConvertBooleanToString)
+   - [x] Read through Chapter 7 from "Head first Java"
+ ---
+
  Nov 26, 2018, Day 7:
    - [x] Worked on String puzzle section on CodingBat
  ---
