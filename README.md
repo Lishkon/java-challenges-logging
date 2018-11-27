@@ -123,6 +123,7 @@ Here goes a list of tasks solved for some particular amount of time. I started l
 | 45            |72               | [FrontAgain](src/main/java/CodingBat/String01/FrontAgaing.java)              |  8 Kyu      |   Done  |
 | 46            |73               | [Without2](src/main/java/CodingBat/String01/Without2.java)                   |  8 Kyu      |   Done  |
 | 47            |74               | [WithoutX](src/main/java/CodingBat/String01/WithoutX.java)                   |  8 Kyu      |   Done  |
+| 48            |75               | [MakeAbba](src/main/java/CodingBat/String01/MakeAbba.java)                   |  8 Kyu      |   Done  |
 
 
 
