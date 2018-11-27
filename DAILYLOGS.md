@@ -4,14 +4,21 @@
     1. Date
     2. Day #
     3. Activity (-ies)
-    4. Time spent
 
+ Nov 26, 2018, Day 7:
+   - [x] Worked on String puzzle section on CodingBat
+ ---
+ Nov 25, 2018, Day 6:
+   - [ ] Completed reading through Chapter 7 from "Head first Java"
+   - [x] Worked on String puzzle section on CodingBat
+ ---
  Nov 24, 2018, Day 5:
    - [x] Read half through Chapter 7 from "Head first Java"
    - [x] Completed the FizzBuzz puzzle section from CodingBat
    - [x] Started new String puzzle section on CodingBat
  ---
  Nov 23, 2018, Day 4:
+   - [x] No activity
  ---
  Nov 22, 2018, Day 3:
   - [x] Worked on PS1 from CS50
