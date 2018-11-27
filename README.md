@@ -74,54 +74,55 @@ There are items I need to learn better and some are already learnt:
 Here goes a list of tasks solved for some particular amount of time. I started logging them from April 2018, but there are a lot of untracked tasks and katas (referring to Codewars) which I solved a long ago before that.
 
 ## November 2018:
-|   Count # |   Solved tasks              |   Complexity|   Status|
-|-----------|-----------------------------|-------------|---------|
-|28         | [BackAround](src/main/java/CodingBat/Warmup01/BackAround.java)                  |  8 Kyu      |   Done  |
-|29         | [MixStart](src/main/java/CodingBat/Warmup01/MixStart.java)      |  8 Kyu      |   Done  |
-|30         | [Close10](src/main/java/CodingBat/Warmup01/Close10.java)                     |  8 Kyu      |   Done  |
-|31         | [ReverseWords](src/main/java/Codewars/kyu8/ReverseWords.java)                |  8 Kyu      |   Done  |
-|32         | [AbbreviateTwoWords](src/main/java/Codewars/kyu8/AbbreviateTwoWords.java)          |  8 Kyu      |   Done  |
-|33         | [ToLeetSpeak](src/main/java/Codewars/kyu7/ToLeetSpeak.java)                 |  7 Kyu      |   Done  |
-|34         | [GapfulNumbers](src/main/java/SoloLearn/GapfulNumbers.java)               |  8 Kyu      |   Done  |
-|35         | [ObjectChecker](src/main/java/Codewars/kyu8/ObjectChecker.java)   |  8 Kyu      |   Done  |
-|36         | [EveryNth](src/main/java/CodingBat/Warmup01/EveryNth.java)                    |  8 Kyu      |   Done  |
-|37         | [StringE](src/main/java/CodingBat/Warmup01/StringE.java)                     |  8 Kyu      |   Done  |
-|38         | [PosNeg](src/main/java/CodingBat/Warmup01/PosNeg.java) |  8 Kyu      |   Done  |
-|39         | [FrontBack](src/main/java/CodingBat/Warmup01/FrontBack.java)                   |  8 Kyu      |   Done  |
-|40         | [StartOz](src/main/java/CodingBat/Warmup01/StartOz.java)                     |  8 Kyu      |   Done  |
-|41         | [In3050](src/main/java/CodingBat/Warmup01/In3050.java)                      |  8 Kyu      |   Done  |
-|42         | [Front3](src/main/java/CodingBat/Warmup01/Front3.java)                      |  8 Kyu      |   Done  |
-|43         | [Front22](src/main/java/CodingBat/Warmup01/Front22.java)                     |  8 Kyu      |   Done  |
-|44         | [DelDel](src/main/java/CodingBat/Warmup01/DelDel.java)                      |  8 Kyu      |   Done  |
-|45         | [IntMax](src/main/java/CodingBat/Warmup01/IntMax.java)                      |  8 Kyu      |   Done  |
-|46         | [DoubleX](src/main/java/CodingBat/Warmup02/DoubleX.java)                     |  8 Kyu      |   Done  |
-|47         | [ArrayCount9](src/main/java/CodingBat/Warmup02/ArrayCount9.java)                 |  8 Kyu      |   Done  |
-|48         | [NoTriples](src/main/java/CodingBat/Warmup02/NoTriples.java)                 |  8 Kyu      |   Done  |
-|49         | [FizzString](src/main/java/CodingBat/FizzBuzzCode/FizzString.java)                 |  8 Kyu      |   Done  |
-|50         | [FizzString2](src/main/java/CodingBat/FizzBuzzCode/FizzString2.java)                 |  8 Kyu      |   Done  |
-|51         | [FizzArray](src/main/java/CodingBat/FizzBuzzCode/FizzArray.java)                 |  8 Kyu      |   Done  |
-|52         | [FizzArray2](src/main/java/CodingBat/FizzBuzzCode/FizzArray2.java)                 |  8 Kyu      |   Done  |
-|53         | [FizzArray3](src/main/java/CodingBat/FizzBuzzCode/FizzArray3.java)                 |  8 Kyu      |   Done  |
-|54         | [FizzBuzz](src/main/java/CodingBat/FizzBuzzCode/FizzBuzz.java)                 |  8 Kyu      |   Done  |
-|55         | [HelloName](src/main/java/CodingBat/String01/HelloName.java)                 |  8 Kyu      |   Done  |
-|56         | [MakeOutWord](src/main/java/CodingBat/String01/MakeOutWord.java)                 |  8 Kyu      |   Done  |
-|57         | [FirstHalf](src/main/java/CodingBat/String01/FirstHalf.java)                 |  8 Kyu      |   Done  |
-|58         | [TheEnd](src/main/java/CodingBat/String01/TheEnd.java)                 |  8 Kyu      |   Done  |
-|59         | [WithouEnd2](src/main/java/CodingBat/String01/WithouEnd2.java)                 |  8 Kyu      |   Done  |
-|60         | [MiddleTwo](src/main/java/CodingBat/String01/MiddleTwo.java)                 |  8 Kyu      |   Done  |
-|61         | [EndsLy](src/main/java/CodingBat/String01/EndsLy.java)                 |  8 Kyu      |   Done  |
-|62         | [MiddleThree](src/main/java/CodingBat/String01/MiddleThree.java)                 |  8 Kyu      |   Done  |
-|63         | [LastChars](src/main/java/CodingBat/String01/LastChars.java)                 |  8 Kyu      |   Done  |
-|64         | [SeeColor](src/main/java/CodingBat/String01/SeeColor.java)                 |  8 Kyu      |   Done  |
-|65         | [ExtraFront](src/main/java/CodingBat/String01/ExtraFront.java)                 |  8 Kyu      |   Done  |
-|66         | [ExtraEnd](src/main/java/CodingBat/String01/ExtraEnd.java)                 |  8 Kyu      |   Done  |
-|67         | [WithoutEnd](src/main/java/CodingBat/String01/WithoutEnd.java)                 |  8 Kyu      |   Done  |
-|68         | [Left2](src/main/java/CodingBat/String01/Left2.java)                 |  8 Kyu      |   Done  |
-|69         | [NTwice](src/main/java/CodingBat/String01/NTwice.java)                 |  8 Kyu      |   Done  |
-|70         | [HasBad](src/main/java/CodingBat/String01/HasBad.java)                 |  8 Kyu      |   Done  |
-|71         | [ConCat](src/main/java/CodingBat/String01/ConCat.java)                 |  8 Kyu      |   Done  |
-|72         | [FrontAgain](src/main/java/CodingBat/String01/FrontAgaing.java)                 |  8 Kyu      |   Done  |
-|73         | [Without2](src/main/java/CodingBat/String01/Without2.java)                 |  8 Kyu      |   Done  |
+| Monthly count |   Total Count # |   Solved tasks                                                               |   Complexity|   Status|
+|---------------|-----------------|------------------------------------------------------------------------------|-------------|---------|
+| 01            |28               | [BackAround](src/main/java/CodingBat/Warmup01/BackAround.java)               |  8 Kyu      |   Done  |
+| 02            |29               | [MixStart](src/main/java/CodingBat/Warmup01/MixStart.java)                   |  8 Kyu      |   Done  |
+| 03            |30               | [Close10](src/main/java/CodingBat/Warmup01/Close10.java)                     |  8 Kyu      |   Done  |
+| 04            |31               | [ReverseWords](src/main/java/Codewars/kyu8/ReverseWords.java)                |  8 Kyu      |   Done  |
+| 05            |32               | [AbbreviateTwoWords](src/main/java/Codewars/kyu8/AbbreviateTwoWords.java)    |  8 Kyu      |   Done  |
+| 06            |33               | [ToLeetSpeak](src/main/java/Codewars/kyu7/ToLeetSpeak.java)                  |  7 Kyu      |   Done  |
+| 07            |34               | [GapfulNumbers](src/main/java/SoloLearn/GapfulNumbers.java)                  |  8 Kyu      |   Done  |
+| 08            |35               | [ObjectChecker](src/main/java/Codewars/kyu8/ObjectChecker.java)              |  8 Kyu      |   Done  |
+| 09            |36               | [EveryNth](src/main/java/CodingBat/Warmup01/EveryNth.java)                   |  8 Kyu      |   Done  |
+| 10            |37               | [StringE](src/main/java/CodingBat/Warmup01/StringE.java)                     |  8 Kyu      |   Done  |
+| 11            |38               | [PosNeg](src/main/java/CodingBat/Warmup01/PosNeg.java)                       |  8 Kyu      |   Done  |
+| 12            |39               | [FrontBack](src/main/java/CodingBat/Warmup01/FrontBack.java)                 |  8 Kyu      |   Done  |
+| 13            |40               | [StartOz](src/main/java/CodingBat/Warmup01/StartOz.java)                     |  8 Kyu      |   Done  |
+| 14            |41               | [In3050](src/main/java/CodingBat/Warmup01/In3050.java)                       |  8 Kyu      |   Done  |
+| 15            |42               | [Front3](src/main/java/CodingBat/Warmup01/Front3.java)                       |  8 Kyu      |   Done  |
+| 16            |43               | [Front22](src/main/java/CodingBat/Warmup01/Front22.java)                     |  8 Kyu      |   Done  |
+| 17            |44               | [DelDel](src/main/java/CodingBat/Warmup01/DelDel.java)                       |  8 Kyu      |   Done  |
+| 18            |45               | [IntMax](src/main/java/CodingBat/Warmup01/IntMax.java)                       |  8 Kyu      |   Done  |
+| 19            |46               | [DoubleX](src/main/java/CodingBat/Warmup02/DoubleX.java)                     |  8 Kyu      |   Done  |
+| 20            |47               | [ArrayCount9](src/main/java/CodingBat/Warmup02/ArrayCount9.java)             |  8 Kyu      |   Done  |
+| 21            |48               | [NoTriples](src/main/java/CodingBat/Warmup02/NoTriples.java)                 |  8 Kyu      |   Done  |
+| 22            |49               | [FizzString](src/main/java/CodingBat/FizzBuzzCode/FizzString.java)           |  8 Kyu      |   Done  |
+| 23            |50               | [FizzString2](src/main/java/CodingBat/FizzBuzzCode/FizzString2.java)         |  8 Kyu      |   Done  |
+| 24            |51               | [FizzArray](src/main/java/CodingBat/FizzBuzzCode/FizzArray.java)             |  8 Kyu      |   Done  |
+| 25            |52               | [FizzArray2](src/main/java/CodingBat/FizzBuzzCode/FizzArray2.java)           |  8 Kyu      |   Done  |
+| 26            |53               | [FizzArray3](src/main/java/CodingBat/FizzBuzzCode/FizzArray3.java)           |  8 Kyu      |   Done  |
+| 27            |54               | [FizzBuzz](src/main/java/CodingBat/FizzBuzzCode/FizzBuzz.java)               |  8 Kyu      |   Done  |
+| 28            |55               | [HelloName](src/main/java/CodingBat/String01/HelloName.java)                 |  8 Kyu      |   Done  |
+| 29            |56               | [MakeOutWord](src/main/java/CodingBat/String01/MakeOutWord.java)             |  8 Kyu      |   Done  |
+| 30            |57               | [FirstHalf](src/main/java/CodingBat/String01/FirstHalf.java)                 |  8 Kyu      |   Done  |
+| 31            |58               | [TheEnd](src/main/java/CodingBat/String01/TheEnd.java)                       |  8 Kyu      |   Done  |
+| 32            |59               | [WithouEnd2](src/main/java/CodingBat/String01/WithouEnd2.java)               |  8 Kyu      |   Done  |
+| 33            |60               | [MiddleTwo](src/main/java/CodingBat/String01/MiddleTwo.java)                 |  8 Kyu      |   Done  |
+| 34            |61               | [EndsLy](src/main/java/CodingBat/String01/EndsLy.java)                       |  8 Kyu      |   Done  |
+| 35            |62               | [MiddleThree](src/main/java/CodingBat/String01/MiddleThree.java)             |  8 Kyu      |   Done  |
+| 36            |63               | [LastChars](src/main/java/CodingBat/String01/LastChars.java)                 |  8 Kyu      |   Done  |
+| 37            |64               | [SeeColor](src/main/java/CodingBat/String01/SeeColor.java)                   |  8 Kyu      |   Done  |
+| 38            |65               | [ExtraFront](src/main/java/CodingBat/String01/ExtraFront.java)               |  8 Kyu      |   Done  |
+| 39            |66               | [ExtraEnd](src/main/java/CodingBat/String01/ExtraEnd.java)                   |  8 Kyu      |   Done  |
+| 40            |67               | [WithoutEnd](src/main/java/CodingBat/String01/WithoutEnd.java)               |  8 Kyu      |   Done  |
+| 41            |68               | [Left2](src/main/java/CodingBat/String01/Left2.java)                         |  8 Kyu      |   Done  |
+| 42            |69               | [NTwice](src/main/java/CodingBat/String01/NTwice.java)                       |  8 Kyu      |   Done  |
+| 43            |70               | [HasBad](src/main/java/CodingBat/String01/HasBad.java)                       |  8 Kyu      |   Done  |
+| 44            |71               | [ConCat](src/main/java/CodingBat/String01/ConCat.java)                       |  8 Kyu      |   Done  |
+| 45            |72               | [FrontAgain](src/main/java/CodingBat/String01/FrontAgaing.java)              |  8 Kyu      |   Done  |
+| 46            |73               | [Without2](src/main/java/CodingBat/String01/Without2.java)                   |  8 Kyu      |   Done  |
+| 47            |74               | [WithoutX](src/main/java/CodingBat/String01/WithoutX.java)                   |  8 Kyu      |   Done  |
 
 
 
@@ -147,29 +148,29 @@ Here goes a list of tasks solved for some particular amount of time. I started l
 
 
 ## May 2018:
-|   Count # |   Solved tasks                                  |  Complexity      |   Status     |
-|-----------|-------------------------------------------------|------------------|--------------|
-|6          | ReversedSequence                                |  8 Kyu           |     Done     |
-|7          | Expressions                                     |  8 Kyu           |     Done     |
-|8          | Thinkful - Logic Drills: Traffic light          |  8 Kyu           |     Done     |
-|9          | SumOfPositive                                   |  8 Kyu           |     Done     |
-|10         | ConverToBinary                                  |  8 Kyu           |     Done     |
-|11         | PaperFolder                                     |  8 Kyu           |     WIP      |
-|12         | TrafficLights                                   |  8 Kyu           |     Done     |
-|13         | OutputFormatting                                |  8 Kyu           |     Done     |
-|14         | HaystackNeedle                                  |  8 Kyu           |     Done     |
-|15         | God                                             |  8 Kyu           |     Done     |
-|16         | StringyStrings                                  |  8 Kyu           |     Done     |
+| Monthly count |   Total Count # |   Solved tasks                                  |  Complexity      |   Status     |
+|---------------|-----------------|-------------------------------------------------|------------------|--------------|
+| 01            |6                | ReversedSequence                                |  8 Kyu           |     Done     |
+| 02            |7                | Expressions                                     |  8 Kyu           |     Done     |
+| 03            |8                | Thinkful - Logic Drills: Traffic light          |  8 Kyu           |     Done     |
+| 04            |9                | SumOfPositive                                   |  8 Kyu           |     Done     |
+| 05            |10               | ConverToBinary                                  |  8 Kyu           |     Done     |
+| 06            |11               | PaperFolder                                     |  8 Kyu           |     WIP      |
+| 07            |12               | TrafficLights                                   |  8 Kyu           |     Done     |
+| 08            |13               | OutputFormatting                                |  8 Kyu           |     Done     |
+| 09            |14               | HaystackNeedle                                  |  8 Kyu           |     Done     |
+| 10            |15               | God                                             |  8 Kyu           |     Done     |
+| 11            |16               | StringyStrings                                  |  8 Kyu           |     Done     |
 
 
 ## April 2018:
-|   Count # |   Solved tasks              |   Complexity|      Status|
-|-----------|-----------------------------|-------------|------------|
-|1          | BasicOperations             |  8 Kyu      |      Done  |
-|2          | RemoveChars                 |  8 Kyu      |      Done  |
-|3          | RemoveStringSpaces          |  8 Kyu      |      Done  |
-|4          | NumberOfPeopleInTheBus      |  8 Kyu      |      WIP   |
-|5          | SmallestIntegerInTheArray   |  8 Kyu      |      Done  |
+| Monthly count |   Total Count # |   Solved tasks              |   Complexity|      Status|
+|---------------|-----------------|-----------------------------|-------------|------------|
+| 01            |1                | BasicOperations             |  8 Kyu      |      Done  |
+| 02            |2                | RemoveChars                 |  8 Kyu      |      Done  |
+| 03            |3                | RemoveStringSpaces          |  8 Kyu      |      Done  |
+| 04            |4                | NumberOfPeopleInTheBus      |  8 Kyu      |      WIP   |
+| 05            |5                | SmallestIntegerInTheArray   |  8 Kyu      |      Done  |
 
 
 ## References:
