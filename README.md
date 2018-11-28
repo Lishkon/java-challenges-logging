@@ -129,6 +129,7 @@ Here goes a list of tasks solved for some particular amount of time. I started l
 | 51            |78               | [ComboString](src/main/java/CodingBat/String01/ComboString.java)             |  8 Kyu      |   Done  |
 | 52            |79               | [Right2](src/main/java/CodingBat/String01/Right2.java)                       |  8 Kyu      |   Done  |
 | 53            |80               | [TwoChar](src/main/java/CodingBat/String01/TwoChar.java)                     |  8 Kyu      |   Done  |
+| 54            |81               | [AtFirst](src/main/java/CodingBat/String01/AtFirst.java)                     |  8 Kyu      |   Done  |
 
 
 
