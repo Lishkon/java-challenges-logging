@@ -134,6 +134,7 @@ Here goes a list of tasks solved for some particular amount of time. I started l
 | 56            |83               | [WithoutX2](src/main/java/CodingBat/String01/WithoutX2.java)                 |  8 Kyu      |   Done  |
 | 57            |84               | [FirstLast6](src/main/java/CodingBat/Array1/FirstLast6.java)                 |  8 Kyu      |   Done  |
 | 58            |85               | [Day2(30DoC)](src/main/java/HackerRank/CodingDays30/Day02.java)              |  8 Kyu      |   Done  |
+| 59            |86               | [CurrencyFormatter](src/main/java/HackerRank/Introduction/CurrencyFormatter.java)              |  8 Kyu      |   Done  |
 
 
 
