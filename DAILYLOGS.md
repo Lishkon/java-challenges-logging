@@ -8,8 +8,6 @@
  Nov 29, 2018, Day 10:
    - [x] Started HackerRank's 30 Days Of Coding challenge. Day 2 completed (Day 1 was completed the other day some time ago)
    - [x] Worked through some additional challenges on Codingbat.com
-   - [ ] Read through Chapter 7 from "Head first Java"
-   - [ ] Started SimplePigLatin kata (kyu5) from CodeWars. Struggling to find the solution to the punctuation issue
  ---
 
  Nov 28, 2018, Day 9:
