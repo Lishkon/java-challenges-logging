@@ -5,6 +5,11 @@
     2. Day #
     3. Activity (-ies)
 
+ Nov 28, 2018, Day 9:
+   - [x] Worked on String puzzle section on CodingBat
+   - [x] Read through Chapter 7 from "Head first Java"
+   - [x] Started SimplePigLatin kata (kyu5) from CodeWars. Facing a difficulties with one test case (punctuation issue)
+ ---
  Nov 27, 2018, Day 8:
    - [x] Worked on String puzzle section on CodingBat
    - [x] Completed few WIP puzzles (StringyStrings, ConvertBooleanToString)
