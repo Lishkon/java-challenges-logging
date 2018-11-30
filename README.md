@@ -137,6 +137,7 @@ Here goes a list of tasks solved for some particular amount of time. I started l
 | 59            |86               | [Day2(30DoC)](src/main/java/HackerRank/CodingDays30/Day02.java)              |  8 Kyu      |   Done  |
 | 60            |87               | [CurrencyFormatter](src/main/java/HackerRank/Introduction/CurrencyFormatter.java)              |  8 Kyu      |   Done  |
 | 61            |88               | [StaticInitializer](src/main/java/HackerRank/Introduction/StaticInitializer.java)              |  8 Kyu      |   Done  |
+| 62            |89               | [JavaLoops2](src/main/java/HackerRank/Introduction/JavaLoops2.java)              |  8 Kyu      |   Done  |
 
 
 
