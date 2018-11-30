@@ -24,6 +24,7 @@ public class CurrencyFormatter {
         String china = String.valueOf(NumberFormat.getCurrencyInstance(Locale.CHINA).format(payment));
         String france = String.valueOf(NumberFormat.getCurrencyInstance(Locale.FRANCE).format(payment));
 
+
         // Printing the formatted strings in correspondence to the needed currency
         System.out.println("US: " + us);
         System.out.println("India: " + india);
