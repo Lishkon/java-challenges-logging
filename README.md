@@ -69,9 +69,16 @@ There are items I need to learn better and some are already learnt:
 |    :white_medium_square: ToDo  |                |                       |[Effective Thinking Through Mathematics](https://www.edx.org/course/effective-thinking-through-mathematics-utaustinx-ut-9-01x-0)                   |      Edx             |
 |    :white_medium_square: ToDo  |                |                       |[Intro to Algorithms](https://www.udacity.com/course/intro-to-algorithms--cs215)                                       |      Udacity         |
 
+# Interesting challenges to solve:
+- [ ] [newNumeralSystem](https://app.codesignal.com/skill-test/ngQTG9kra7GE9pnnK)
 
 # Practice
 Here goes a list of tasks solved for some particular amount of time. I started logging them from April 2018, but there are a lot of untracked tasks and katas (referring to Codewars) which I solved a long ago before that.
+
+## December 2018:
+| Monthly count |   Total Count # |   Solved tasks                                                            |   Complexity|   Status|
+|---------------|-----------------|---------------------------------------------------------------------------|-------------|---------|
+|01             |91               | [Day3(30DoC)](src/main/java/HackerRank/CodingDays30/Day03.java)           |  8 Kyu      |   Done  |
 
 ## November 2018:
 | Monthly count |   Total Count # |   Solved tasks                                                               |   Complexity|   Status|
