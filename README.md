@@ -82,6 +82,7 @@ Here goes a list of tasks solved for some particular amount of time. I started l
 |02             |92               | [Reverse3](src/main/java/CodingBat/Array1/Reverse3.java)                    |  8 Kyu      |   Done  |
 |03             |93               | [MiddleWay](src/main/java/CodingBat/Array1/MiddleWay.java)                  |  8 Kyu      |   Done  |
 |04             |94               | [CommonEnd](src/main/java/CodingBat/Array1/CommonEnd.java)                  |  8 Kyu      |   Done  |
+|05             |95               | [No23](src/main/java/CodingBat/Array1/No23.java)                            |  8 Kyu      |   Done  |
 
 ## November 2018:
 | Monthly count |   Total Count # |   Solved tasks                                                               |   Complexity|   Status|
