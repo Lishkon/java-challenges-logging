@@ -76,11 +76,12 @@ There are items I need to learn better and some are already learnt:
 Here goes a list of tasks solved for some particular amount of time. I started logging them from April 2018, but there are a lot of untracked tasks and katas (referring to Codewars) which I solved a long ago before that.
 
 ## December 2018:
-| Monthly count |   Total Count # |   Solved tasks                                                            |   Complexity|   Status|
-|---------------|-----------------|---------------------------------------------------------------------------|-------------|---------|
-|01             |91               | [Day3(30DoC)](src/main/java/HackerRank/CodingDays30/Day03.java)           |  8 Kyu      |   Done  |
-|02             |92               | [Reverse3](src/main/java/CodingBat/Array1/Reverse3.java)                  |  8 Kyu      |   Done  |
+| Monthly count |   Total Count # |   Solved tasks                                                              |   Complexity|   Status|
+|---------------|-----------------|-----------------------------------------------------------------------------|-------------|---------|
+|01             |91               | [Day3(30DoC)](src/main/java/HackerRank/CodingDays30/Day03.java)             |  8 Kyu      |   Done  |
+|02             |92               | [Reverse3](src/main/java/CodingBat/Array1/Reverse3.java)                    |  8 Kyu      |   Done  |
 |03             |93               | [MiddleWay](src/main/java/CodingBat/Array1/MiddleWay.java)                  |  8 Kyu      |   Done  |
+|04             |94               | [CommonEnd](src/main/java/CodingBat/Array1/CommonEnd.java)                  |  8 Kyu      |   Done  |
 
 ## November 2018:
 | Monthly count |   Total Count # |   Solved tasks                                                               |   Complexity|   Status|
