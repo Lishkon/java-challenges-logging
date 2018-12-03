@@ -8,6 +8,8 @@
  Dec 03, 2018, Day 14:
    - [x] Completed few CodingBat challenges
    - [x] Completed Codesignal challenge
+   - [x] Completed Another day for 30dOc challenge
+
  ---
 
  Dec 02, 2018, Day 13:
