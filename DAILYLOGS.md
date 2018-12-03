@@ -5,6 +5,21 @@
     2. Day #
     3. Activity (-ies)
 
+ Dec 03, 2018, Day 14:
+   - [x] Completed few CodingBat challenges
+   - [x] Completed Codesignal challenge
+ ---
+
+ Dec 02, 2018, Day 13:
+   - [x] Completed following Stepic's sections: Boolean, Floating-point. Proceeded with Math
+   - [x] Completed Day3 30Doc challenge
+   - [x] Solved few more CodingBat challenges (Array-1)
+ ---
+
+ Dec 01, 2018, Day 12:
+   - [x] No activity
+ ---
+
  Nov 30, 2018, Day 11:
    - [x] Another Day challenge is solved from #30DaysChallenge
    - [x] Completed the few HackerRank challenges

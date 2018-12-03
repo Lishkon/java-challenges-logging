@@ -83,6 +83,7 @@ Here goes a list of tasks solved for some particular amount of time. I started l
 |03             |93               | [MiddleWay](src/main/java/CodingBat/Array1/MiddleWay.java)                  |  8 Kyu      |   Done  |
 |04             |94               | [CommonEnd](src/main/java/CodingBat/Array1/CommonEnd.java)                  |  8 Kyu      |   Done  |
 |05             |95               | [No23](src/main/java/CodingBat/Array1/No23.java)                            |  8 Kyu      |   Done  |
+|06             |96               | [MakeArrayConsecutive2](src/main/java/Codesignal/MakeArrayConsecutive2.java)                            |  8 Kyu      |   Done  |
 
 ## November 2018:
 | Monthly count |   Total Count # |   Solved tasks                                                               |   Complexity|   Status|
