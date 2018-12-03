@@ -85,6 +85,7 @@ Here goes a list of tasks solved for some particular amount of time. I started l
 |05             |95               | [No23](src/main/java/CodingBat/Array1/No23.java)                            |  8 Kyu      |   Done  |
 |06             |96               | [MakeArrayConsecutive2](src/main/java/Codesignal/MakeArrayConsecutive2.java)                            |  8 Kyu      |   Done  |
 |07             |97               | [Day4(30DoC)](src/main/java/Codesignal/Day4(30DoC).java)                            |  8 Kyu      |   Done  |
+|08             |98               | [Day5(30DoC)](src/main/java/Codesignal/Day5(30DoC).java)                            |  8 Kyu      |   Done  |
 
 ## November 2018:
 | Monthly count |   Total Count # |   Solved tasks                                                               |   Complexity|   Status|

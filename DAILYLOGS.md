@@ -9,6 +9,7 @@
    - [x] Completed few CodingBat challenges
    - [x] Completed Codesignal challenge
    - [x] Completed Another day for 30dOc challenge
+   - [x] Completed Another day (day 5) for 30dOc challenge
 
  ---
 
