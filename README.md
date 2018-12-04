@@ -88,6 +88,7 @@ Here goes a list of tasks solved for some particular amount of time. I started l
 |08             |98               | [Day5(30DoC)](src/main/java/HackerRank/CodingDays30/Day5.java)              |  8 Kyu      |   Done  |
 |09             |99               | [Day6(30DoC)](src/main/java/HackerRank/CodingDays30/Day6.java)              |  8 Kyu      |   Done  |
 |10             |100              | [GetSmallestAndLargest](src/main/java/HackerRank/Strings/GetSmallestAndLargest.java)              |  8 Kyu      |   Done  |
+|11             |101              | [StringReverse](src/main/java/HackerRank/Strings/StringReverse.java)              |  8 Kyu      |   Done  |
 
 ## November 2018:
 | Monthly count |   Total Count # |   Solved tasks                                                               |   Complexity|   Status|
