@@ -5,6 +5,10 @@
     2. Day #
     3. Activity (-ies)
 
+ Dec 04, 2018, Day 15:
+   - [x] Completed Day6 (30DoC)
+
+ ---
  Dec 03, 2018, Day 14:
    - [x] Completed few CodingBat challenges
    - [x] Completed Codesignal challenge
