@@ -7,6 +7,7 @@
 
  Dec 04, 2018, Day 15:
    - [x] Completed Day6 (30DoC)
+   - [x] Solved several HackerRank challenges
 
  ---
  Dec 03, 2018, Day 14:
