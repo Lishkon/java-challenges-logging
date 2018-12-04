@@ -5,8 +5,6 @@ public class CheckIfAnagram {
         a = a.toLowerCase();
         b = b.toLowerCase();
 
-        System.out.println("lowercased " + a + " " + b);
-
         if(a.length() != b.length()){
             return false;
         }
