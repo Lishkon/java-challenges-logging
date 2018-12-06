@@ -5,11 +5,15 @@
     2. Day #
     3. Activity (-ies)
 
- Dec 06, 2018, Day 16:
-   - [x] Completed Day7 (30DoC)
+Dec 06, 2018, Day 17:
+   - [x] Completed Day8 (30DoC)
    - [ ] Solved several HackerRank challenges
-   - [ ] Solved the Chapter 7 tasks from Head First Java
+   - [x] Completed reading through Chapter 7 from HeadFirst Java
    - [ ] Solved several CodingBat (Array-1) challenges
+ ---
+
+ Dec 05, 2018, Day 16:
+   - [x] Completed Day7 (30DoC)
  ---
 
  Dec 04, 2018, Day 15:
