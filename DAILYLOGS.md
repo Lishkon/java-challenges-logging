@@ -7,9 +7,8 @@
 
 Dec 06, 2018, Day 17:
    - [x] Completed Day8 (30DoC)
-   - [ ] Solved several HackerRank challenges
+   - [x] Solved several HackerRank challenges
    - [x] Completed reading through Chapter 7 from HeadFirst Java
-   - [ ] Solved several CodingBat (Array-1) challenges
  ---
 
  Dec 05, 2018, Day 16:
