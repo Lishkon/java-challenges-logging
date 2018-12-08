@@ -5,6 +5,11 @@
     2. Day #
     3. Activity (-ies)
 
+ Dec 06, 2018, Day 18:
+   - [x] Completed Day9 (30DoC)
+   - [ ] Solved several HackerRank challenges
+ ---
+
 Dec 06, 2018, Day 17:
    - [x] Completed Day8 (30DoC)
    - [x] Solved several HackerRank challenges

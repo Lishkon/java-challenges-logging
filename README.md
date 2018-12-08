@@ -93,6 +93,7 @@ Here goes a list of tasks solved for some particular amount of time. I started l
 |13             |103              | [StringTokens](src/main/java/HackerRank/Strings/StringTokens.java)          |  8 Kyu      |   Done  |
 |14             |104              | [Day7(30DoC)](src/main/java/HackerRank/CodingDays30/Day07.java)             |  8 Kyu      |   Done  |
 |15             |105              | [Day8(30DoC)](src/main/java/HackerRank/CodingDays30/Day08.java)             |  8 Kyu      |   Done  |
+|16             |106              | [Day9(30DoC)](src/main/java/HackerRank/CodingDays30/Day09.java)             |  8 Kyu      |   Done  |
 
 ## November 2018:
 | Monthly count |   Total Count # |   Solved tasks                                                               |   Complexity|   Status|
