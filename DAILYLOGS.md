@@ -5,7 +5,12 @@
     2. Day #
     3. Activity (-ies)
 
- Dec 06, 2018, Day 18:
+ Dec 08, 2018, Day 19:
+   - [x] Completed Day10 (30DoC)
+   - [ ] Solved several Codingbat challenges
+ ---
+
+ Dec 07, 2018, Day 18:
    - [x] Completed Day9 (30DoC)
    - [x] Solved several Codingbat challenges
  ---
