@@ -96,6 +96,7 @@ Here goes a list of tasks solved for some particular amount of time. I started l
 |16             |106              | [Day9(30DoC)](src/main/java/HackerRank/CodingDays30/Day09.java)             |  8 Kyu      |   Done  |
 |17             |107              | [Fix23](src/main/java/CodingBat/Array1/Fix23.java)                          |  8 Kyu      |   Done  |
 |18             |108              | [MakeMiddle](src/main/java/CodingBat/Array1/MakeMiddle.java)                |  8 Kyu      |   Done  |
+|19             |109              | [MidThree](src/main/java/CodingBat/Array1/MidThree.java)                |  8 Kyu      |   Done  |
 
 ## November 2018:
 | Monthly count |   Total Count # |   Solved tasks                                                               |   Complexity|   Status|
