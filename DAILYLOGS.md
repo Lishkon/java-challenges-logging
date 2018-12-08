@@ -7,7 +7,7 @@
 
  Dec 06, 2018, Day 18:
    - [x] Completed Day9 (30DoC)
-   - [ ] Solved several HackerRank challenges
+   - [x] Solved several Codingbat challenges
  ---
 
 Dec 06, 2018, Day 17:
