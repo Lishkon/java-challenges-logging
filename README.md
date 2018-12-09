@@ -100,6 +100,7 @@ Here goes a list of tasks solved for some particular amount of time. I started l
 |20             |110              | [Day10(30DoC)](src/main/java/HackerRank/CodingDays30/Day10.java)            |  8 Kyu      |   Done  |
 |21             |111              | [DateAndTime](src/main/java/HackerRank/Introduction/DateAndTime.java)       |  8 Kyu      |   Done  |
 |22             |112              | [PatternSyntaxChecker](src/main/java/HackerRank/Strings/PatternSyntaxChecker.java)       |  8 Kyu      |   Done  |
+|23             |113              | [LibraryCatalogue](src/main/java/HackerRank/Day11Tutorial/LibraryCatalogue.java)       |  8 Kyu      |   Done  |
 
 ## November 2018:
 | Monthly count |   Total Count # |   Solved tasks                                                               |   Complexity|   Status|
