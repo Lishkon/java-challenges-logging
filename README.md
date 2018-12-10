@@ -20,6 +20,8 @@ There are items I need to learn better and some are already learnt:
 - [ ] Basic design patterns like singleton, factory, etc.
 - [ ] ...
 
+# Non-Java related (generic things)
+- [ ] [Regular Expressions](https://www.youtube.com/playlist?list=PLRqwX-V7Uu6YEypLuls7iidwHMdCM6o2w)
 ### List of websites which I use to find the tasks:
 1. [Codewars](https://codewars.com)
 2. [Codingbat](https://codingbat.com)
