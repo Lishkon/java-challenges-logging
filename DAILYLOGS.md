@@ -6,7 +6,7 @@
     3. Activity (-ies)
 
 Dec 09, 2018, Day 20
-   - [ ] Completed Day11 (30DoC)
+   - [x] Completed Day11 (30DoC)
    - [ ] Solved several HackerRank challenges
    - [x] Went through the Day11 tutorial
  ---
