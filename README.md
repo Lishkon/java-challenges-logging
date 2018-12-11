@@ -108,7 +108,7 @@ Here goes a list of tasks solved for some particular amount of time. I started l
 |26             |117              | [MaxEnd3](src/main/java/CodingBat/Array1/MaxEnd3.java)                      |  8 Kyu      |   Done  |
 |27             |118              | [MakeEnds](src/main/java/CodingBat/Array1/MakeEnds.java)                    |  8 Kyu      |   Done  |
 |28             |119              | [MakeLast](src/main/java/CodingBat/Array1/MakeLast.java)                    |  8 Kyu      |   Done  |
-|29             |120              | [SimplePigLatin](src/main/java/Codewars/kyu8/SimplePigLatin.java)           |  8 Kyu      |   Done  |
+|29             |120              | [SimplePigLatin](src/main/java/Codewars/kyu5/SimplePigLatin.java)           |  8 Kyu      |   Done  |
 
 ## November 2018:
 | Monthly count |   Total Count # |   Solved tasks                                                               |   Complexity|   Status|
