@@ -104,7 +104,8 @@ Here goes a list of tasks solved for some particular amount of time. I started l
 |22             |112              | [PatternSyntaxChecker](src/main/java/HackerRank/Strings/PatternSyntaxChecker.java)       |  8 Kyu      |   Done  |
 |23             |113              | [LibraryCatalogue](src/main/java/HackerRank/Day11Tutorial/LibraryCatalogue.java)       |  8 Kyu      |   Done  |
 |24             |114              | [Day11(30DoC)](src/main/java/HackerRank/CodingDays30/Day11.java)            |  8 Kyu      |   Done  |
-|25             |115              | [SameFirstLast](src/main/java/CodingBat/Array1/SameFirstLast.java)          |  8 Kyu      |   Done  |
+|25             |116              | [Sum3](src/main/java/CodingBat/Array1/Sum3.java)                            |  8 Kyu      |   Done  |
+
 
 ## November 2018:
 | Monthly count |   Total Count # |   Solved tasks                                                               |   Complexity|   Status|

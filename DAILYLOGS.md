@@ -5,6 +5,13 @@
     2. Day #
     3. Activity (-ies)
 
+Dec 11, 2018, Day 22
+   - [x] Done some CodingBat challenges
+   - [ ] Completed Day12 (30DoC)
+   - [ ] Completed Day13 (30DoC)
+   - [ ] Solved several HackerRank challenges
+ ---
+
 Dec 10, 2018, Day 21
    - [x] No activity...
  ---
