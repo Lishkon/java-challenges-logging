@@ -12,6 +12,12 @@ public class SimplePigLatinTest {
     }
 
     @Test
+    public void hiThereTest() {
+        SimplePigLatin spl = new SimplePigLatin();
+        Assert.assertEquals("ihay heretay!", spl.simplePigLatin("Hi there!"));
+    }
+
+    @Test
     public void pigLatinIsCoolTest() {
         SimplePigLatin spl = new SimplePigLatin();
         Assert.assertEquals("igPay atinlay siay oolcay", spl.simplePigLatin("Pig latin is cool"));

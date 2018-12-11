@@ -1,10 +1,6 @@
 package Codewars.kyu5;
 
-import com.sun.org.apache.bcel.internal.generic.IF_ACMPEQ;
-
 import java.util.ArrayList;
-import java.util.regex.Matcher;
-import java.util.regex.Pattern;
 
 /*
  * Move the first letter of each word to the end of it, then add "ay" to the end of the word. Leave punctuation marks untouched.
