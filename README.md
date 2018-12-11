@@ -20,6 +20,8 @@ There are items I need to learn better and some are already learnt:
 - [ ] Basic design patterns like singleton, factory, etc.
 - [ ] ...
 
+# Non-Java related (generic things)
+- [ ] [Regular Expressions](https://www.youtube.com/playlist?list=PLRqwX-V7Uu6YEypLuls7iidwHMdCM6o2w)
 ### List of websites which I use to find the tasks:
 1. [Codewars](https://codewars.com)
 2. [Codingbat](https://codingbat.com)
@@ -69,9 +71,44 @@ There are items I need to learn better and some are already learnt:
 |    :white_medium_square: ToDo  |                |                       |[Effective Thinking Through Mathematics](https://www.edx.org/course/effective-thinking-through-mathematics-utaustinx-ut-9-01x-0)                   |      Edx             |
 |    :white_medium_square: ToDo  |                |                       |[Intro to Algorithms](https://www.udacity.com/course/intro-to-algorithms--cs215)                                       |      Udacity         |
 
+# Interesting challenges to solve:
+- [ ] [newNumeralSystem](https://app.codesignal.com/skill-test/ngQTG9kra7GE9pnnK)
 
 # Practice
 Here goes a list of tasks solved for some particular amount of time. I started logging them from April 2018, but there are a lot of untracked tasks and katas (referring to Codewars) which I solved a long ago before that.
+
+## December 2018:
+| Monthly count |   Total Count # |   Solved tasks                                                              |   Complexity|   Status|
+|---------------|-----------------|-----------------------------------------------------------------------------|-------------|---------|
+|01             |91               | [Day3(30DoC)](src/main/java/HackerRank/CodingDays30/Day03.java)             |  8 Kyu      |   Done  |
+|02             |92               | [Reverse3](src/main/java/CodingBat/Array1/Reverse3.java)                    |  8 Kyu      |   Done  |
+|03             |93               | [MiddleWay](src/main/java/CodingBat/Array1/MiddleWay.java)                  |  8 Kyu      |   Done  |
+|04             |94               | [CommonEnd](src/main/java/CodingBat/Array1/CommonEnd.java)                  |  8 Kyu      |   Done  |
+|05             |95               | [No23](src/main/java/CodingBat/Array1/No23.java)                            |  8 Kyu      |   Done  |
+|06             |96               | [MakeArrayConsecutive2](src/main/java/Codesignal/MakeArrayConsecutive2.java)|  8 Kyu      |   Done  |
+|07             |97               | [Day4(30DoC)](src/main/java/HackerRank/CodingDays30/Day4.java)              |  8 Kyu      |   Done  |
+|08             |98               | [Day5(30DoC)](src/main/java/HackerRank/CodingDays30/Day5.java)              |  8 Kyu      |   Done  |
+|09             |99               | [Day6(30DoC)](src/main/java/HackerRank/CodingDays30/Day6.java)              |  8 Kyu      |   Done  |
+|10             |100              | [GetSmallestAndLargest](src/main/java/HackerRank/Strings/GetSmallestAndLargest.java)              |  8 Kyu      |   Done  |
+|11             |101              | [StringReverse](src/main/java/HackerRank/Strings/StringReverse.java)        |  8 Kyu      |   Done  |
+|12             |102              | [CheckIfAnagram](src/main/java/HackerRank/Strings/CheckIfAnagram.java)      |  8 Kyu      |   Done  |
+|13             |103              | [StringTokens](src/main/java/HackerRank/Strings/StringTokens.java)          |  8 Kyu      |   Done  |
+|14             |104              | [Day7(30DoC)](src/main/java/HackerRank/CodingDays30/Day07.java)             |  8 Kyu      |   Done  |
+|15             |105              | [Day8(30DoC)](src/main/java/HackerRank/CodingDays30/Day08.java)             |  8 Kyu      |   Done  |
+|16             |106              | [Day9(30DoC)](src/main/java/HackerRank/CodingDays30/Day09.java)             |  8 Kyu      |   Done  |
+|17             |107              | [Fix23](src/main/java/CodingBat/Array1/Fix23.java)                          |  8 Kyu      |   Done  |
+|18             |108              | [MakeMiddle](src/main/java/CodingBat/Array1/MakeMiddle.java)                |  8 Kyu      |   Done  |
+|19             |109              | [MidThree](src/main/java/CodingBat/Array1/MidThree.java)                    |  8 Kyu      |   Done  |
+|20             |110              | [Day10(30DoC)](src/main/java/HackerRank/CodingDays30/Day10.java)            |  8 Kyu      |   Done  |
+|21             |111              | [DateAndTime](src/main/java/HackerRank/Introduction/DateAndTime.java)       |  8 Kyu      |   Done  |
+|22             |112              | [PatternSyntaxChecker](src/main/java/HackerRank/Strings/PatternSyntaxChecker.java)       |  8 Kyu      |   Done  |
+|23             |113              | [LibraryCatalogue](src/main/java/HackerRank/Day11Tutorial/LibraryCatalogue.java)       |  8 Kyu      |   Done  |
+|24             |114              | [Day11(30DoC)](src/main/java/HackerRank/CodingDays30/Day11.java)            |  8 Kyu      |   Done  |
+|25             |116              | [Sum3](src/main/java/CodingBat/Array1/Sum3.java)                            |  8 Kyu      |   Done  |
+|26             |117              | [MaxEnd3](src/main/java/CodingBat/Array1/MaxEnd3.java)                      |  8 Kyu      |   Done  |
+|27             |118              | [MakeEnds](src/main/java/CodingBat/Array1/MakeEnds.java)                    |  8 Kyu      |   Done  |
+|28             |119              | [MakeLast](src/main/java/CodingBat/Array1/MakeLast.java)                    |  8 Kyu      |   Done  |
+
 
 ## November 2018:
 | Monthly count |   Total Count # |   Solved tasks                                                               |   Complexity|   Status|
@@ -131,7 +168,14 @@ Here goes a list of tasks solved for some particular amount of time. I started l
 | 53            |80               | [TwoChar](src/main/java/CodingBat/String01/TwoChar.java)                     |  8 Kyu      |   Done  |
 | 54            |81               | [AtFirst](src/main/java/CodingBat/String01/AtFirst.java)                     |  8 Kyu      |   Done  |
 | 55            |82               | [LastTwo](src/main/java/CodingBat/String01/LastTwo.java)                     |  8 Kyu      |   Done  |
-
+| 56            |83               | [WithoutX2](src/main/java/CodingBat/String01/WithoutX2.java)                 |  8 Kyu      |   Done  |
+| 57            |84               | [FirstLast6](src/main/java/CodingBat/Array1/FirstLast6.java)                 |  8 Kyu      |   Done  |
+| 58            |85               | [Day1(30DoC)](src/main/java/HackerRank/CodingDays30/Day01.java)              |  8 Kyu      |   Done  |
+| 59            |86               | [Day2(30DoC)](src/main/java/HackerRank/CodingDays30/Day02.java)              |  8 Kyu      |   Done  |
+| 60            |87               | [CurrencyFormatter](src/main/java/HackerRank/Introduction/CurrencyFormatter.java)              |  8 Kyu      |   Done  |
+| 61            |88               | [StaticInitializer](src/main/java/HackerRank/Introduction/StaticInitializer.java)              |  8 Kyu      |   Done  |
+| 62            |89               | [JavaLoops2](src/main/java/HackerRank/Introduction/JavaLoops2.java)              |  8 Kyu      |   Done  |
+| 63            |90               | [StringIntroduction](src/main/java/HackerRank/Introduction/StringIntroduction.java)              |  8 Kyu      |   Done  |
 
 
 ## October 2018:

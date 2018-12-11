@@ -5,6 +5,79 @@
     2. Day #
     3. Activity (-ies)
 
+Dec 11, 2018, Day 22
+   - [x] Done some CodingBat challenges
+   - [ ] Completed Day12 (30DoC)
+   - [ ] Completed Day13 (30DoC)
+   - [ ] Solved several HackerRank challenges
+ ---
+
+Dec 10, 2018, Day 21
+   - [x] No activity...
+ ---
+Dec 09, 2018, Day 20
+   - [x] Completed Day11 (30DoC)
+   - [ ] Solved several HackerRank challenges
+   - [x] Went through the Day11 tutorial
+ ---
+
+ Dec 08, 2018, Day 19:
+   - [x] Completed Day10 (30DoC)
+   - [x] Solved several HackerRank challenges
+   - [ ] Solved several Codingbat challenges
+ ---
+
+ Dec 07, 2018, Day 18:
+   - [x] Completed Day9 (30DoC)
+   - [x] Solved several Codingbat challenges
+ ---
+
+Dec 06, 2018, Day 17:
+   - [x] Completed Day8 (30DoC)
+   - [x] Solved several HackerRank challenges
+   - [x] Completed reading through Chapter 7 from HeadFirst Java
+ ---
+
+ Dec 05, 2018, Day 16:
+   - [x] Completed Day7 (30DoC)
+ ---
+
+ Dec 04, 2018, Day 15:
+   - [x] Completed Day6 (30DoC)
+   - [x] Solved several HackerRank challenges
+   - [x] Done reading Chapter 7 from Head First Java
+ ---
+
+ Dec 03, 2018, Day 14:
+   - [x] Completed few CodingBat challenges
+   - [x] Completed Codesignal challenge
+   - [x] Completed Another day for 30dOc challenge
+   - [x] Completed Another day (day 5) for 30dOc challenge
+
+ ---
+
+ Dec 02, 2018, Day 13:
+   - [x] Completed following Stepic's sections: Boolean, Floating-point. Proceeded with Math
+   - [x] Completed Day3 30Doc challenge
+   - [x] Solved few more CodingBat challenges (Array-1)
+ ---
+
+ Dec 01, 2018, Day 12:
+   - [x] No activity
+ ---
+
+ Nov 30, 2018, Day 11:
+   - [x] Another Day challenge is solved from #30DaysChallenge
+   - [x] Completed the few HackerRank challenges
+   - [x] Completed the shapeArea challenge from Codefights
+ ---
+
+ Nov 29, 2018, Day 10:
+   - [x] Started HackerRank's 30 Days Of Coding challenge. Day 2 completed (Day 1 was completed the other day some time ago)
+   - [x] Worked through some additional challenges on Codingbat.com
+   - [ ] Started SimplePigLatin kata (kyu5) from CodeWars. Struggling to find the solution to the punctuation issue
+ ---
+
  Nov 28, 2018, Day 9:
    - [x] Worked on String puzzle section on CodingBat
    - [x] Read through Chapter 7 from "Head first Java"

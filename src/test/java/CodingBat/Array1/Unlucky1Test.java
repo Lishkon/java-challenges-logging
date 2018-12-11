@@ -1,5 +1,6 @@
 package CodingBat.Array1;
 
+<<<<<<< HEAD
 import org.junit.Assert;
 import org.junit.Test;
 
@@ -18,4 +19,7 @@ public class Unlucky1Test {
         Unlucky1 u1 = new Unlucky1();
         Assert.assertFalse(u1.unlucky1(new int[]{1, 1, 1, 3, 1}));
     }
+=======
+public class Unlucky1Test {
+>>>>>>> master
 }
