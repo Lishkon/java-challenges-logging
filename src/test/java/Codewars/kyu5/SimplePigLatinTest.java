@@ -4,11 +4,6 @@ import org.junit.Assert;
 import org.junit.Test;
 
 public class SimplePigLatinTest {
-    @Test
-    public void testSomethingTest() {
-        SimplePigLatin spl = new SimplePigLatin();
-        Assert.assertEquals("Iay maay gtestinay sthiay gstrinay", spl.simplePigLatin("I am testing this string"));
-    }
 
     @Test
     public void helloWorldTest() {
@@ -39,12 +34,12 @@ public class SimplePigLatinTest {
 
     @Test
     public void punctuatedTest() {
-        Assert.assertEquals("Iay", SimplePigLatin.pigify("I!"));
+        Assert.assertEquals("Iay!", SimplePigLatin.pigify("I!"));
     }
 
     @Test
     public void punctuated2Test() {
-        Assert.assertEquals("amIay", SimplePigLatin.pigify("Iam!"));
+        Assert.assertEquals("amIay!", SimplePigLatin.pigify("Iam!"));
     }
 
     @Test

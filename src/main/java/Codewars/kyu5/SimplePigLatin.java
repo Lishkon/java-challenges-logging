@@ -1,7 +1,10 @@
 package Codewars.kyu5;
 
+import com.sun.org.apache.bcel.internal.generic.IF_ACMPEQ;
+
 import java.util.ArrayList;
-import java.util.Arrays;
+import java.util.regex.Matcher;
+import java.util.regex.Pattern;
 
 /*
  * Move the first letter of each word to the end of it, then add "ay" to the end of the word. Leave punctuation marks untouched.
@@ -11,14 +14,7 @@ import java.util.Arrays;
 public class SimplePigLatin {
     public String simplePigLatin(String str) {
         String res = "";
-
         String[] strArr = str.split(" ");
-
-//        for (int i = 0; i < strArr.length; i++) {
-//            strArr[i] = pigify(strArr[i]);
-//            res += strArr[i] + " ";
-//        }
-//        System.out.println(Arrays.toString(strArr));
 
         // This solution seems to be working but it doesn't work fine if the string contains punctuations
         ArrayList<String> list = new ArrayList<String>();
@@ -34,16 +30,33 @@ public class SimplePigLatin {
     }
 
     static String pigify(String str) {
-        String clear = str.replaceAll("\\W", " ").trim();
-        String res = clear + "ay";
-        if  (clear.length()==0) {
-            res = "";
+
+        String reg = "\\W+|\\s+";
+        String lastS = "";
+        String clear = "";
+        String res = "";
+
+
+        if (str.length()==1 && str.matches(reg)) {
+            res = str;
+        } else if (str.length() >=1 && (!str.matches(reg))) {
+            res = String.valueOf(str.substring(1)) + str.substring(0,1) + "ay" + lastS;
         }
-        if (clear.length()==2) {
-            res = String.valueOf(clear.charAt(1)) + String.valueOf(clear.charAt(0)) + "ay";
-        }
-        if (clear.length()>2) {
-            res = clear.substring(1) + String.valueOf(clear.charAt(0)) + "ay";
+
+
+        if (str.length()>=2 ) {
+
+            if(String.valueOf(str.charAt(str.length()-1)).matches(reg)){
+                lastS = str.substring(str.length() - 1);
+            }
+
+            if(String.valueOf(str.charAt(str.length()-2)).matches(reg)){
+                lastS = str.substring(str.length() - 2);
+            }
+
+            clear = str.replaceAll(reg, " ").trim();
+            res = String.valueOf(clear.substring(1)) + clear.substring(0,1) + "ay" + lastS;
+
         }
         return res;
     }
