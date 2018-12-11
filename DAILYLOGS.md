@@ -5,6 +5,9 @@
     2. Day #
     3. Activity (-ies)
 
+Dec 10, 2018, Day 21
+   - [x] No activity...
+ ---
 Dec 09, 2018, Day 20
    - [x] Completed Day11 (30DoC)
    - [ ] Solved several HackerRank challenges
