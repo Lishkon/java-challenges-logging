@@ -5,6 +5,10 @@
     2. Day #
     3. Activity (-ies)
 
+Dec 12, 2018, Day 23
+   - [x] Completed Day14 (30DoC)
+ ---
+
 Dec 11, 2018, Day 22
    - [x] Done some CodingBat challenges
    - [x] Completed Day12 (30DoC)

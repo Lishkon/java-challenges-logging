@@ -111,6 +111,7 @@ Here goes a list of tasks solved for some particular amount of time. I started l
 |29             |120              | [SimplePigLatin](src/main/java/Codewars/kyu5/SimplePigLatin.java)           |  8 Kyu      |   Done  |
 |30             |121              | [Day12(30DoC)](src/main/java/HackerRank/CodingDays30/Day12.java)            |  8 Kyu      |   Done  |
 |31             |122              | [Day13(30DoC)](src/main/java/HackerRank/CodingDays30/Day13.java)            |  8 Kyu      |   Done  |
+|32             |123              | [Day14(30DoC)](src/main/java/HackerRank/CodingDays30/Day14.java)            |  8 Kyu      |   Done  |
 
 ## November 2018:
 | Monthly count |   Total Count # |   Solved tasks                                                               |   Complexity|   Status|
@@ -176,8 +177,8 @@ Here goes a list of tasks solved for some particular amount of time. I started l
 | 59            |86               | [Day2(30DoC)](src/main/java/HackerRank/CodingDays30/Day02.java)              |  8 Kyu      |   Done  |
 | 60            |87               | [CurrencyFormatter](src/main/java/HackerRank/Introduction/CurrencyFormatter.java)              |  8 Kyu      |   Done  |
 | 61            |88               | [StaticInitializer](src/main/java/HackerRank/Introduction/StaticInitializer.java)              |  8 Kyu      |   Done  |
-| 62            |89               | [JavaLoops2](src/main/java/HackerRank/Introduction/JavaLoops2.java)              |  8 Kyu      |   Done  |
-| 63            |90               | [StringIntroduction](src/main/java/HackerRank/Introduction/StringIntroduction.java)              |  8 Kyu      |   Done  |
+| 62            |89               | [JavaLoops2](src/main/java/HackerRank/Introduction/JavaLoops2.java)          |  8 Kyu      |   Done  |
+| 63            |90               | [StringIntroduction](src/main/java/HackerRank/Introduction/StringIntroduction.java)            |  8 Kyu      |   Done  |
 
 
 ## October 2018:
