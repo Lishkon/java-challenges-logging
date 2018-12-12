@@ -8,7 +8,7 @@
 Dec 11, 2018, Day 22
    - [x] Done some CodingBat challenges
    - [x] Completed Day12 (30DoC)
-   - [ ] Completed Day13 (30DoC)
+   - [x] Completed Day13 (30DoC)
    - [x] Solved several Codewars challenges
  ---
 

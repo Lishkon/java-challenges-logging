@@ -110,6 +110,7 @@ Here goes a list of tasks solved for some particular amount of time. I started l
 |28             |119              | [MakeLast](src/main/java/CodingBat/Array1/MakeLast.java)                    |  8 Kyu      |   Done  |
 |29             |120              | [SimplePigLatin](src/main/java/Codewars/kyu5/SimplePigLatin.java)           |  8 Kyu      |   Done  |
 |30             |121              | [Day12(30DoC)](src/main/java/HackerRank/CodingDays30/Day12.java)            |  8 Kyu      |   Done  |
+|31             |122              | [Day13(30DoC)](src/main/java/HackerRank/CodingDays30/Day13.java)            |  8 Kyu      |   Done  |
 
 ## November 2018:
 | Monthly count |   Total Count # |   Solved tasks                                                               |   Complexity|   Status|
