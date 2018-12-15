@@ -5,6 +5,15 @@
     2. Day #
     3. Activity (-ies)
 
+
+Dec 15, 2018, Day 26
+   - [x] Completed Day15 (30DoC)
+ ---
+
+Dec 14, 2018, Day 25
+   - [x] Resting
+ ---
+
 Dec 13, 2018, Day 24
    - [x] Done some CodingBat challenges
  ---

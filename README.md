@@ -113,6 +113,7 @@ Here goes a list of tasks solved for some particular amount of time. I started l
 |31             |122              | [Day13(30DoC)](src/main/java/HackerRank/CodingDays30/Day13.java)            |  8 Kyu      |   Done  |
 |32             |123              | [Day14(30DoC)](src/main/java/HackerRank/CodingDays30/Day14.java)            |  8 Kyu      |   Done  |
 |33             |124              | [PlusTwo](src/main/java/CodingBat/Array1/PlusTwo.java)                      |  8 Kyu      |   Done  |
+|34             |125              | [Day15(30DoC)](src/main/java/HackerRank/CodingDays30/Day15.java)            |  8 Kyu      |   Done  |
 
 ## November 2018:
 | Monthly count |   Total Count # |   Solved tasks                                                               |   Complexity|   Status|
@@ -180,6 +181,7 @@ Here goes a list of tasks solved for some particular amount of time. I started l
 | 61            |88               | [StaticInitializer](src/main/java/HackerRank/Introduction/StaticInitializer.java)          |  8 Kyu      |   Done  |
 | 62            |89               | [JavaLoops2](src/main/java/HackerRank/Introduction/JavaLoops2.java)          |  8 Kyu      |   Done  |
 | 63            |90               | [StringIntroduction](src/main/java/HackerRank/Introduction/StringIntroduction.java)        |  8 Kyu      |   Done  |
+
 
 
 ## October 2018:
