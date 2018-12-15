@@ -8,6 +8,7 @@
 
 Dec 15, 2018, Day 26
    - [x] Completed Day15 (30DoC)
+   - [x] Completed Day16 (30DoC)
  ---
 
 Dec 14, 2018, Day 25
