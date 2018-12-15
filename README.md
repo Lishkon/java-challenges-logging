@@ -115,6 +115,7 @@ Here goes a list of tasks solved for some particular amount of time. I started l
 |33             |124              | [PlusTwo](src/main/java/CodingBat/Array1/PlusTwo.java)                      |  8 Kyu      |   Done  |
 |34             |125              | [Day15(30DoC)](src/main/java/HackerRank/CodingDays30/Day15.java)            |  8 Kyu      |   Done  |
 |35             |126              | [Day16(30DoC)](src/main/java/HackerRank/CodingDays30/Day16.java)            |  8 Kyu      |   Done  |
+|36             |127              | [MaxTriple](src/main/java/CodingBat/Array1/MaxTriple.java)                  |  8 Kyu      |   Done  |
 
 ## November 2018:
 | Monthly count |   Total Count # |   Solved tasks                                                               |   Complexity|   Status|

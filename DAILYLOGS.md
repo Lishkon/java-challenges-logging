@@ -9,6 +9,8 @@
 Dec 15, 2018, Day 26
    - [x] Completed Day15 (30DoC)
    - [x] Completed Day16 (30DoC)
+   - [x] Done some CodingBat challenges
+   - [x] Watched some HackerRank tutorials
  ---
 
 Dec 14, 2018, Day 25
