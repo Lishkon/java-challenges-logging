@@ -196,7 +196,7 @@ Here goes a list of tasks solved for some particular amount of time. I started l
 |04             |21               | ReverseWords                |  8 Kyu      |   Done  |
 |05             |22               | ReduceButGrow               |  8 Kyu      |   Done  |
 |06             |23               | OppositesAttract            |  8 Kyu      |   Done  |
-|07             |24               | WrongEndHead                |  8 Kyu      |   WIP   |
+|07             |24               | WrongEndHead                |  8 Kyu      |   DLTD  |
 |08             |25               | OddCount                    |  8 Kyu      |   Done  |
 |09             |26               | isDivisible                 |  8 Kyu      |   Done  |
 |10             |27               | Maps                        |  8 Kyu      |   Done  |
