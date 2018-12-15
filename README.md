@@ -193,7 +193,7 @@ Here goes a list of tasks solved for some particular amount of time. I started l
 |01             |18               | Accumul(Mumbling)           |  7 Kyu      |   Done  |
 |02             |19               | StringRepeat                |  8 Kyu      |   Done  |
 |03             |20               | CountingSheep               |  8 Kyu      |   Done  |
-|04             |21               | ReverseWords                |  8 Kyu      |   WIP   |
+|04             |21               | ReverseWords                |  8 Kyu      |   Done  |
 |05             |22               | ReduceButGrow               |  8 Kyu      |   Done  |
 |06             |23               | OppositesAttract            |  8 Kyu      |   Done  |
 |07             |24               | WrongEndHead                |  8 Kyu      |   WIP   |
