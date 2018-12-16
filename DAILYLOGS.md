@@ -7,6 +7,7 @@
 
 Dec 16, 2018, Day 27
    - [x] Completed Day17 (30DoC)
+   - [x] Done some CodingBat challenges
  ---
 
 Dec 15, 2018, Day 26
