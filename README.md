@@ -70,6 +70,7 @@ There are items I need to learn better and some are already learnt:
 |    :white_medium_square: ToDo  |                |                       |[UBCx: HtC1x How to Code: Complex Data](https://www.edx.org/course/how-code-complex-data-ubcx-htc2x)                   |      Edx             |
 |    :white_medium_square: ToDo  |                |                       |[Effective Thinking Through Mathematics](https://www.edx.org/course/effective-thinking-through-mathematics-utaustinx-ut-9-01x-0)                   |      Edx             |
 |    :white_medium_square: ToDo  |                |                       |[Intro to Algorithms](https://www.udacity.com/course/intro-to-algorithms--cs215)                                       |      Udacity         |
+|    :white_medium_square: ToDo  |                |                       |[Game Devlopment with Java](https://marcusman.com/)                                                                    |      marcusman       |
 
 # Interesting challenges to solve:
 - [ ] [newNumeralSystem](https://app.codesignal.com/skill-test/ngQTG9kra7GE9pnnK)
