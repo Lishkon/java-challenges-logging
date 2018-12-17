@@ -6,7 +6,7 @@
     3. Activity (-ies)
 
 Dec 17, 2018, Day 28
-   - [ ] Completed Day18 (30DoC)
+   - [x] Completed Day18 (30DoC)
    - [x] Done some CodingBat challenges
  ---
 
