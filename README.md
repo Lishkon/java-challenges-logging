@@ -126,6 +126,7 @@ Here goes a list of tasks solved for some particular amount of time. I started l
 |43             |134              | [Double23](src/main/java/CodingBat/Array1/Double23.java)                    |  8 Kyu      |   Done  |
 |44             |135              | [BiggerTwo](src/main/java/CodingBat/Array1/BiggerTwo.java)                  |  8 Kyu      |   Done  |
 |45             |136              | [SwapEnds](src/main/java/CodingBat/Array1/SwapEnds.java)                    |  8 Kyu      |   Done  |
+|46             |137              | [FrontPiece](src/main/java/CodingBat/Array1/FrontPiece.java)                |  8 Kyu      |   Done  |
 
 ## November 2018:
 | Monthly count |   Total Count # |   Solved tasks                                                               |   Complexity|   Status|
