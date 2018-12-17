@@ -8,6 +8,7 @@
 Dec 17, 2018, Day 28
    - [x] Completed Day18 (30DoC)
    - [x] Done some CodingBat challenges
+   - [x] Read Chapter 08 from HeadFirst Java (covering Polymorphism)
  ---
 
 Dec 16, 2018, Day 27
