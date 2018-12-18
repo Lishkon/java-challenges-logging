@@ -128,6 +128,7 @@ Here goes a list of tasks solved for some particular amount of time. I started l
 |45             |136              | [SwapEnds](src/main/java/CodingBat/Array1/SwapEnds.java)                    |  8 Kyu      |   Done  |
 |46             |137              | [FrontPiece](src/main/java/CodingBat/Array1/FrontPiece.java)                |  8 Kyu      |   Done  |
 |47             |138              | [Day18(30DoC)](src/main/java/HackerRank/CodingDays30/Day18.java)            |  8 Kyu      |   Done  |
+|48             |139              | [Day19(30DoC)](src/main/java/HackerRank/CodingDays30/Day19.java)            |  8 Kyu      |   Done  |
 
 ## November 2018:
 | Monthly count |   Total Count # |   Solved tasks                                                               |   Complexity|   Status|

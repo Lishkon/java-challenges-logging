@@ -7,9 +7,8 @@
 
 Dec 18, 2018, Day 29
    - [x] Watched the Day19 HackerRank tutorials
-   - [ ] Completed Day19 (30DoC)
-   - [ ] Done some CodingBat challenges
-   - [ ] Read Chapter 08 from HeadFirst Java (covering Polymorphism)
+   - [x] Completed Day19 (30DoC)
+   - [x] Done some CodingBat challenges
  ---
 
 Dec 17, 2018, Day 28
