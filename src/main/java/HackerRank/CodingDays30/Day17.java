@@ -2,7 +2,7 @@ package HackerRank.CodingDays30;
 
 import java.util.Scanner;
 
-class Calculator {
+class CalculatorN {
     int power(int n, int p) throws Exception{
         if (n<0 ||p<0 ) {
             throw new Exception("n and p should be non-negative");
@@ -20,7 +20,7 @@ public class Day17 {
 
             int n = in.nextInt();
             int p = in.nextInt();
-            Calculator myCalculator = new Calculator();
+            CalculatorN myCalculator = new CalculatorN();
             try {
                 int ans = myCalculator.power(n, p);
                 System.out.println(ans);
