@@ -5,6 +5,10 @@
     2. Day #
     3. Activity (-ies)
 
+Dec 19, 2018, Day 30
+   - [x] Completed Day20 (30DoC)
+ ---
+
 Dec 18, 2018, Day 29
    - [x] Watched the Day19 HackerRank tutorials
    - [x] Completed Day19 (30DoC)
