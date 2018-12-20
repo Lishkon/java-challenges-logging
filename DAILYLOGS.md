@@ -5,6 +5,10 @@
     2. Day #
     3. Activity (-ies)
 
+Dec 20, 2018, Day 31
+   - [x] Completed Day21 (30DoC)
+ ---
+
 Dec 19, 2018, Day 30
    - [x] Completed Day20 (30DoC)
  ---
