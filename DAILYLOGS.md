@@ -7,6 +7,7 @@
 
 Dec 20, 2018, Day 31
    - [x] Completed Day21 (30DoC)
+   - [x] Completed the Array-1 section from CodingBat
  ---
 
 Dec 19, 2018, Day 30
