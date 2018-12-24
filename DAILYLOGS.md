@@ -5,6 +5,23 @@
     2. Day #
     3. Activity (-ies)
 
+Dec 24, 2018, Day 34
+   - [x] Completed some CodingBat challenges
+   - [x] Worked on Day22 from 31DoC
+ ---
+
+Dec 23, 2018, Day 33
+   - [x] Rested
+ ---
+
+Dec 22, 2018, Day 33
+   - [x] Rested
+ ---
+
+Dec 21, 2018, Day 32
+   - [x] Rested
+ ---
+
 Dec 20, 2018, Day 31
    - [x] Completed Day21 (30DoC)
    - [x] Completed the Array-1 section from CodingBat
