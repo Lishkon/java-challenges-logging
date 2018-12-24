@@ -135,6 +135,7 @@ Here goes a list of tasks solved for some particular amount of time. I started l
 |52             |143              | [Array667](src/main/java/CodingBat/Warmup02/Array667.java)                  |  8 Kyu      |   Done  |
 |53             |144              | [Array123](src/main/java/CodingBat/Warmup02/Array123.java)                  |  8 Kyu      |   Done  |
 |54             |145              | [MinCat](src/main/java/CodingBat/String01/MinCat.java)                      |  8 Kyu      |   Done  |
+|55             |146              | [DeFront](src/main/java/CodingBat/String01/DeFront.java)                      |  8 Kyu      |   Done  |
 
 ## November 2018:
 | Monthly count |   Total Count # |   Solved tasks                                                               |   Complexity|   Status|
