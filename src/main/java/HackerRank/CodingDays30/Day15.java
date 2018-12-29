@@ -2,24 +2,24 @@ package HackerRank.CodingDays30;
 
 import java.util.Scanner;
 
-class Node {
+class Day15Node {
     int data;
-    Node next;
-    Node(int d) {
+    Day15Node next;
+    Day15Node(int d) {
         data = d;
         next = null;
     }
 }
 
 public class Day15 {
-    public static  Node insert(Node head,int data) {
+    public static Day15Node insert(Day15Node head, int data) {
         //Complete this method
 
         if (head == null) {
-            return new Node(data);
+            return new Day15Node(data);
         }
         if (head.next == null) {
-            head.next = new Node(data);
+            head.next = new Day15Node(data);
         } else {
             insert(head.next, data);
         }
@@ -27,8 +27,8 @@ public class Day15 {
         return head;
     }
 
-    public static void display(Node head) {
-        Node start = head;
+    public static void display(Day15Node head) {
+        Day15Node start = head;
         while(start != null) {
             System.out.print(start.data + " ");
             start = start.next;
@@ -37,7 +37,7 @@ public class Day15 {
 
     public static void main(String args[]) {
         Scanner sc = new Scanner(System.in);
-        Node head = null;
+        Day15Node head = null;
         int N = sc.nextInt();
 
         while(N-- > 0) {
