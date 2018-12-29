@@ -5,6 +5,26 @@
     2. Day #
     3. Activity (-ies)
 
+
+Dec 28, 2018, Day 38
+   - [x] Read about BST
+   - [x] Day22 Tutorial is done
+   - [x] Day22 Challenge is done
+
+ ---
+
+Dec 27, 2018, Day 37
+   - [x] Rested
+ ---
+
+Dec 26, 2018, Day 36
+   - [x] Rested
+ ---
+
+Dec 25, 2018, Day 35
+   - [x] Rested
+ ---
+
 Dec 24, 2018, Day 34
    - [x] Completed some CodingBat challenges
    - [x] Worked on Day22 from 31DoC

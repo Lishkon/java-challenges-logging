@@ -138,6 +138,7 @@ Here goes a list of tasks solved for some particular amount of time. I started l
 |55             |146              | [DeFront](src/main/java/CodingBat/String01/DeFront.java)                    |  8 Kyu      |   Done  |
 |56             |147              | [StartWord](src/main/java/CodingBat/String01/StartWord.java)                |  8 Kyu      |   Done  |
 |57             |148              | [CountEvens](src/main/java/CodingBat/Array02/CountEvens.java)               |  8 Kyu      |   Done  |
+|58             |149              | [Day22(30DoC)](src/main/java/HackerRank/CodingDays30/Day22.java)            |  8 Kyu      |   Done  |
 
 ## November 2018:
 | Monthly count |   Total Count # |   Solved tasks                                                               |   Complexity|   Status|
