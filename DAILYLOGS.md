@@ -5,6 +5,11 @@
     2. Day #
     3. Activity (-ies)
 
+Dec 27 - Jan 07, 2018-2019, Day 47
+   - [x] Created a separate CodingBat [repository](https://github.com/Lishkon/codingbat)
+   - [x] Worked through a series of CodingBat challenges
+   - [x] Rested when wanted
+ ---
 
 Dec 28, 2018, Day 38
    - [x] Read about BST
