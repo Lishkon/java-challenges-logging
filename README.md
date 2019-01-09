@@ -9,7 +9,8 @@ If you are passionate about learning any programming language, and need a tool t
 # Theory
 There are items I need to learn better and some are already learnt:
 - [ ] Language Basics (Data types, Exception handling, I/O, Stream API, etc... )
-- [ ] Generics & Collections
+- [ ] Wildcard, Generics & Collections
+- [ ] Data structures, Algorithms, Algorithmic complexity
 - [ ] Data Access
 - [ ] Basic understanding of threading and concurrency
 - [ ] Basic design patterns like singleton, factory, etc.
@@ -21,8 +22,10 @@ There are items I need to learn better and some are already learnt:
 - [ ] Web Components
 - [ ] Swing, AWT & JAVAFX
 - [ ] Hibernate
+- [ ] Spring
 - [ ] EJB
 - [ ] JPA
+- [ ] JDBC
 - [ ] (to be completed...)
 
 
@@ -30,6 +33,7 @@ There are items I need to learn better and some are already learnt:
 
 # Non-Java related (generic things)
 - [ ] [Regular Expressions](https://www.youtube.com/playlist?list=PLRqwX-V7Uu6YEypLuls7iidwHMdCM6o2w)
+- [ ] [Version Control with Git](https://www.udacity.com/course/version-control-with-git--ud123)
 ### List of websites which I use to find the tasks:
 1. [Codewars](https://codewars.com)
 2. [Codingbat](https://codingbat.com)
@@ -46,7 +50,7 @@ There are items I need to learn better and some are already learnt:
 ### Progress Logging
 - [Daily Logs](DAILYLOGS.md)
 
-# Books
+# Books & Resources
 | Status | Title                                                                                                                                         |         Author              | Comments |
 |--------|-----------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------|----------|
 | WIP    |   [Head First Java](https://www.oreilly.com/library/view/head-first-java/0596009208/)                                                         | Bert Bates and Kathy Sierra |          |
@@ -56,6 +60,7 @@ There are items I need to learn better and some are already learnt:
 | ToDo   |   [Java in a Nutshell]()            | Benjamin Evans, David Flanagan            |
 | ToDo   |   [Think Java: How to Think Like a Computer Scientist](http://greenteapress.com/wp/think-java/)            |
 | ToDo   |   [Clean Code: A Handbook of Agile Software Craftsmanship](https://www.investigatii.md/uploads/resurse/Clean_Code.pdf)            |
+| ToDo   |   [Know Thy Complexities](http://bigocheatsheet.com/)            |
 
 
 # Learning
@@ -63,16 +68,16 @@ There are items I need to learn better and some are already learnt:
 |--------------------------------|----------------|-----------------------|-----------------------------------------------------------------------------------------------------------------------|----------------------|
 |    :white_check_mark: Done     |    2017        |      March,2018       |[Java Tutorial for Complete Beginners](https://www.udemy.com/java-tutorial/learn/v4/overview)                          |      Udemy           |
 |    :white_check_mark: Done     |    2017        |      July,2018        |[Complete Step By Step Java For Testers](https://www.udemy.com/complete-java-for-test-automation/learn/v4/overview)    |      Udemy           |
-|    :arrow_forward: WIP         |    2018        |                       |[Java - Introduction](https://stepik.org/course/6858/syllabus)                                                         |      Stepik          |
+|    :arrow_forward: WIP         |    2018        |                       |[CS50 - Introduction to Computer Science](https://courses.edx.org/courses/course-v1:HarvardX+CS50+X/course/)           |      Edx             |
+|    :white_medium_square: ToDo  |    2018        |                       |[Java - Introduction](https://stepik.org/course/6858/syllabus)                                                         |      Stepik          |
 |    :white_medium_square: ToDo  |    2018        |                       |[Learneroo / Java](https://www.learneroo.com/subjects/6)                                                               |      Learneroo       |
 |    :white_medium_square: ToDo  |    2017        |                       |[Intro to Java: Functional Programming](https://classroom.udacity.com/courses/ud282)                                   |      Udacity         |
-|    :arrow_forward: WIP         |    2017        |                       |[Object Oriented Programming in Java](https://classroom.udacity.com/courses/ud283)                                     |      Udacity         |
+|    :white_medium_square: ToDo  |    2017        |                       |[Object Oriented Programming in Java](https://classroom.udacity.com/courses/ud283)                                     |      Udacity         |
 |    :white_medium_square: ToDo  |    2018        |                       |[Introduction to Java Programming - Part 1](https://courses.edx.org/courses/course-v1:HKUSTx+COMP102.1x+3T2018/course/)|      Edx             |
-|    :arrow_forward: WIP         |    2018        |                       |[CS50 - Introduction to Computer Science](https://courses.edx.org/courses/course-v1:HarvardX+CS50+X/course/)           |      Edx             |
 |    :white_medium_square: ToDo  |    2018        |                       |[Java Programming: Solving Problems with Software](https://www.coursera.org/learn/java-programming/home/welcome)       |      Coursera        |
 |    :white_medium_square: ToDo  |    2018        |                       |[Code Yourself! An Introduction to Programming](https://www.coursera.org/learn/intro-programming/home/welcome)         |      Coursera        |
 |    :white_medium_square: ToDo  |    2018        |                       |[Learn Java online](http://www.learnjavaonline.org/en/)                                                                |      3rd party       |
-|    :white_medium_square: ToDo  |    2017        |                       |[Learn Java Unit Testing with JUnit 5 in 20 Steps](https://www.udemy.com/junit-tutorial-for-beginners-with-java-examples/learn/v4/overview)     |      3rd party       |
+|    :white_medium_square: ToDo  |    2017        |                       |[Learn Java Unit Testing with JUnit 5 in 20 Steps](https://www.udemy.com/junit-tutorial-for-beginners-with-java-examples/learn/v4/overview)   |      3rd party       |
 |    :white_medium_square: ToDo  |    2018        |                       |[Алгоритмы: теория и практика. Структуры данных](https://stepik.org/course/1547/syllabus)                              |      Stepik          |
 |    :white_medium_square: ToDo  |                |                       |[UBCx: HtC1x How to Code: Simple Data](https://www.edx.org/course/how-code-simple-data-ubcx-htc1x)                     |      Edx             |
 |    :white_medium_square: ToDo  |                |                       |[UBCx: HtC1x How to Code: Complex Data](https://www.edx.org/course/how-code-complex-data-ubcx-htc2x)                   |      Edx             |
