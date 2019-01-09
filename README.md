@@ -8,17 +8,25 @@ If you are passionate about learning any programming language, and need a tool t
 
 # Theory
 There are items I need to learn better and some are already learnt:
-- [ ] OOP Principles
-- [ ] Classes
-- [ ] Access identifiers
-- [ ] Stream API
-- [ ] Data types
-- [ ] Collections
-- [ ] Exception handling
-- [ ] I/O
+- [ ] Language Basics (Data types, Exception handling, I/O, Stream API, etc... )
+- [ ] Generics & Collections
+- [ ] Data Access
 - [ ] Basic understanding of threading and concurrency
 - [ ] Basic design patterns like singleton, factory, etc.
-- [ ] ...
+- [ ] Class Design & OOP Principles
+- [ ] Architecture
+- [ ] Threads & Concurrency
+- [ ] Tools & Other Standard Libraries
+- [ ] Web Services
+- [ ] Web Components
+- [ ] Swing, AWT & JAVAFX
+- [ ] Hibernate
+- [ ] EJB
+- [ ] JPA
+- [ ] (to be completed...)
+
+
+
 
 # Non-Java related (generic things)
 - [ ] [Regular Expressions](https://www.youtube.com/playlist?list=PLRqwX-V7Uu6YEypLuls7iidwHMdCM6o2w)
