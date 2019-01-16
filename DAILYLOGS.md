@@ -5,6 +5,12 @@
     2. Day #
     3. Activity (-ies)
 
+Jan 16, Day 48
+   - [x] Completed the LeftRotation challenge from HackerRank/ProblemSolving
+
+
+...
+
 Dec 27 - Jan 07, 2018-2019, Day 47
    - [x] Created a separate CodingBat [repository](https://github.com/Lishkon/codingbat)
    - [x] Worked through a series of CodingBat challenges

@@ -91,6 +91,11 @@ There are items I need to learn better and some are already learnt:
 # Practice
 Here goes a list of tasks solved for some particular amount of time. I started logging them from April 2018, but there are a lot of untracked tasks and katas (referring to Codewars) which I solved a long ago before that.
 
+## January 2019:
+| Monthly count |   Total Count # |   Solved tasks                                                              |   Complexity|   Status|
+|---------------|-----------------|-----------------------------------------------------------------------------|-------------|---------|
+|01             |150              | [LeftRotation](src/main/java/HackerRank/ProblemSolving/LeftRotation.java)   |  8 Kyu      |   Done  |
+
 ## December 2018:
 | Monthly count |   Total Count # |   Solved tasks                                                              |   Complexity|   Status|
 |---------------|-----------------|-----------------------------------------------------------------------------|-------------|---------|
