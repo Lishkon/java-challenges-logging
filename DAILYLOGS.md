@@ -5,6 +5,10 @@
     2. Day #
     3. Activity (-ies)
 
+Jan 20, Day 49
+   - [x] Completed three new tasks from CodingBat
+   - [ ] Solved a CS50 week 1 PSET
+
 Jan 16, Day 48
    - [x] Completed the LeftRotation challenge from HackerRank/ProblemSolving
 

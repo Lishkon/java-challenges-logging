@@ -43,9 +43,11 @@ There are items I need to learn better and some are already learnt:
 6. ...
 
 ### My rules:
-1. It is better to do it less hard but regularly
-2. Read each day
-3. TBD
+It is better to do it less hard but regularly, so here's the basic rules on how to quickly achieve the goal
+
+1. Pick up a course (see table below), keep walking with it regularly - ONE COURSER AT TIME
+2. Solve at least three tasks from [Codingbat](https://codingbat.com)
+3. Keep reading the book of your choice (see table below), don't ignore the practicing
 
 ### Progress Logging
 - [Daily Logs](DAILYLOGS.md)
