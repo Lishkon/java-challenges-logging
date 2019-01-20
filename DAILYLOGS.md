@@ -7,7 +7,7 @@
 
 Jan 20, Day 49
    - [x] Completed three new tasks from CodingBat
-   - [ ] Solved a CS50 week 1 PSET
+   - [x] Solved a CS50 week 1 PSET (Mario - less)
 
 Jan 16, Day 48
    - [x] Completed the LeftRotation challenge from HackerRank/ProblemSolving
