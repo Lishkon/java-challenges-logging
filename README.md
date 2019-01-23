@@ -86,6 +86,7 @@ It is better to do it less hard but regularly, so here's the basic rules on how 
 |    :white_medium_square: ToDo  |                |                       |[Effective Thinking Through Mathematics](https://www.edx.org/course/effective-thinking-through-mathematics-utaustinx-ut-9-01x-0)                   |      Edx             |
 |    :white_medium_square: ToDo  |                |                       |[Intro to Algorithms](https://www.udacity.com/course/intro-to-algorithms--cs215)                                       |      Udacity         |
 |    :white_medium_square: ToDo  |                |                       |[Game Devlopment with Java](https://marcusman.com/)                                                                    |      marcusman       |
+|    :white_medium_square: ToDo  |                |                       |[MIT 6.S099: Artificial General Intelligence](https://agi.mit.edu/)                                                    |      MIT/Youtube     |
 
 # Interesting challenges to solve:
 - [ ] [newNumeralSystem](https://app.codesignal.com/skill-test/ngQTG9kra7GE9pnnK)
