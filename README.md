@@ -63,6 +63,7 @@ It is better to do it less hard but regularly, so here's the basic rules on how 
 | ToDo   |   [Think Java: How to Think Like a Computer Scientist](http://greenteapress.com/wp/think-java/)            |
 | ToDo   |   [Clean Code: A Handbook of Agile Software Craftsmanship](https://www.investigatii.md/uploads/resurse/Clean_Code.pdf)            |
 | ToDo   |   [Know Thy Complexities](http://bigocheatsheet.com/)            |
+| ToDo   |   [Javarush theory](http://javarush.ipnodns.ru/)                 |
 
 
 # Learning
@@ -87,6 +88,9 @@ It is better to do it less hard but regularly, so here's the basic rules on how 
 |    :white_medium_square: ToDo  |                |                       |[Intro to Algorithms](https://www.udacity.com/course/intro-to-algorithms--cs215)                                       |      Udacity         |
 |    :white_medium_square: ToDo  |                |                       |[Game Devlopment with Java](https://marcusman.com/)                                                                    |      marcusman       |
 |    :white_medium_square: ToDo  |                |                       |[MIT 6.S099: Artificial General Intelligence](https://agi.mit.edu/)                                                    |      MIT/Youtube     |
+|    :white_medium_square: ToDo  |                |                       |[Spring tutorials](https://www.youtube.com/watch?v=jH17YkBTpI4&list=PLU2ftbIeotGpAYRP9Iv2KLIwK36-o_qYk)                |      Youtube         |
+|    :white_medium_square: ToDo  |                |                       |[IT-Simulator](http://it-simulator.com/#/article/1/3)                                                                  |       |
+|    :white_medium_square: ToDo  |                |                       |[Golovach courses](https://www.youtube.com/user/KharkovITCourses/playlists?shelf_id=12&view=50&sort=dd)                |      Youtube         |
 
 # Interesting challenges to solve:
 - [ ] [newNumeralSystem](https://app.codesignal.com/skill-test/ngQTG9kra7GE9pnnK)
