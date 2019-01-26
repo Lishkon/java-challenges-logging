@@ -91,6 +91,7 @@ It is better to do it less hard but regularly, so here's the basic rules on how 
 |    :white_medium_square: ToDo  |                |                       |[Spring tutorials](https://www.youtube.com/watch?v=jH17YkBTpI4&list=PLU2ftbIeotGpAYRP9Iv2KLIwK36-o_qYk)                |      Youtube         |
 |    :white_medium_square: ToDo  |                |                       |[IT-Simulator](http://it-simulator.com/#/article/1/3)                                                                  |       |
 |    :white_medium_square: ToDo  |                |                       |[Golovach courses](https://www.youtube.com/user/KharkovITCourses/playlists?shelf_id=12&view=50&sort=dd)                |      Youtube         |
+|    :white_medium_square: ToDo  |                |                       |[Networking-SP](https://lagunita.stanford.edu/courses/Engineering/Networking-SP/SelfPaced/course/)                |      Stanford         |
 
 # Interesting challenges to solve:
 - [ ] [newNumeralSystem](https://app.codesignal.com/skill-test/ngQTG9kra7GE9pnnK)
