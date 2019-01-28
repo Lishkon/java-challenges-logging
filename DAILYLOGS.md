@@ -7,7 +7,7 @@
 
 Jan 28, Day 53
    - [x] Lost track of days indeed
-   - [x] Solved a CS50 week 2 PSET (Caesar)
+   - [x] Solved a CS50 week 2 PSET (Caesar + Vigenère)
    - [x] Completed [Array2 section](https://github.com/Lishkon/codingbat/tree/master/src/main/java/Array02) from CodingBat
 ---
 
