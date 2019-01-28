@@ -61,6 +61,8 @@ It is better to do it less hard but regularly, so here's the basic rules on how 
 | ToDo   |   [Java: The Complete Reference]()            |
 | ToDo   |   [Java in a Nutshell]()            | Benjamin Evans, David Flanagan            |
 | ToDo   |   [Think Java: How to Think Like a Computer Scientist](http://greenteapress.com/wp/think-java/)            |
+| ToDo   |   [Algorithms Iluminated](http://www.algorithmsilluminated.org/)            | Tim Roughgarden            |
+| ToDo   |   [Learning HTTP/2 A Practical Guide for Beginners](http://shop.oreilly.com/product/0636920052326.do)            | Stephen Ludin & Javier Garza          |
 | ToDo   |   [Clean Code: A Handbook of Agile Software Craftsmanship](https://www.investigatii.md/uploads/resurse/Clean_Code.pdf)            |
 | ToDo   |   [Know Thy Complexities](http://bigocheatsheet.com/)            |
 | ToDo   |   [Javarush theory](http://javarush.ipnodns.ru/)                 |
