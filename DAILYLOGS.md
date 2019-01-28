@@ -5,13 +5,38 @@
     2. Day #
     3. Activity (-ies)
 
+Jan 28, Day 53
+   - [x] Lost track of days indeed
+   - [x] Solved a CS50 week 2 PSET (Caesar)
+   - [x] Completed [Array2 section](https://github.com/Lishkon/codingbat/tree/master/src/main/java/Array02) from CodingBat
+---
+
+Jan 27, Day 52
+  - [x] Solved a CS50 week 1 PSET (Cash)
+  - [x] Completed several tasks from CodingBat
+  - [x] Investigated the C library static import to cLion
+---
+
+Jan 26, Day 51
+  - [x] Solved a CS50 week 1 PSET (Mario - more)
+  - [x] Completed several tasks from CodingBat
+---
+
+...
+
+Jan 21, Day 50
+   - [x] Completed three new tasks from CodingBat
+   - [ ] Solved a CS50 week 1 PSET (Mario - less)
+---
+
 Jan 20, Day 49
    - [x] Completed three new tasks from CodingBat
    - [x] Solved a CS50 week 1 PSET (Mario - less)
+---
 
 Jan 16, Day 48
    - [x] Completed the LeftRotation challenge from HackerRank/ProblemSolving
-
+---
 
 ...
 
