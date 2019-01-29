@@ -5,6 +5,14 @@
     2. Day #
     3. Activity (-ies)
 
+Jan 29, Day 54
+   - [x] Started working on Crack (CS50 Week 2 last PSET's task)
+   - [x] Watched the [lection on DES ](https://www.youtube.com/watch?v=kPBJIhpcZgE&list=PL6N5qY2nvvJE8X75VkXglSrVhLv1tVcfy&index=5)
+   - [x] Did some Math classes
+   - [x] Solved the Codingbat challenge
+
+---
+
 Jan 28, Day 53
    - [x] Lost track of days indeed
    - [x] Solved a CS50 week 2 PSET (Caesar + Vigenère)
