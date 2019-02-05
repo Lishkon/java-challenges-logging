@@ -34,6 +34,8 @@ There are items I need to learn better and some are already learnt:
 # Non-Java related (generic things)
 - [ ] [Regular Expressions](https://www.youtube.com/playlist?list=PLRqwX-V7Uu6YEypLuls7iidwHMdCM6o2w)
 - [ ] [Version Control with Git](https://www.udacity.com/course/version-control-with-git--ud123)
+- [ ] [MIT: Computation Structures - Part 1: Digital Circuits](https://www.edx.org/course/computation-structures-part-1-digital-mitx-6-004-1x-0)
+
 ### List of websites which I use to find the tasks:
 1. [Codewars](https://codewars.com)
 2. [Codingbat](https://codingbat.com)
