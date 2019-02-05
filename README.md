@@ -35,6 +35,7 @@ There are items I need to learn better and some are already learnt:
 - [ ] [Regular Expressions](https://www.youtube.com/playlist?list=PLRqwX-V7Uu6YEypLuls7iidwHMdCM6o2w)
 - [ ] [Version Control with Git](https://www.udacity.com/course/version-control-with-git--ud123)
 - [ ] [MIT: Computation Structures - Part 1: Digital Circuits](https://www.edx.org/course/computation-structures-part-1-digital-mitx-6-004-1x-0)
+- [ ] [HarvardX: Calculus Applied!](https://www.edx.org/course/calculus-applied)
 
 ### List of websites which I use to find the tasks:
 1. [Codewars](https://codewars.com)
