@@ -49,6 +49,9 @@ It is better to do it less hard but regularly, so here's the basic rules on how 
 2. Solve at least three tasks from [Codingbat](https://codingbat.com)
 3. Keep reading the book of your choice (see table below), don't ignore the practicing
 
+### Other cool stuff
+- [ ] [Open Source CS Degree repository](https://github.com/ForrestKnight/open-source-cs)
+
 ### Progress Logging
 - [Daily Logs](DAILYLOGS.md)
 
@@ -76,16 +79,16 @@ It is better to do it less hard but regularly, so here's the basic rules on how 
 |    :white_check_mark: Done     |    2018        |      January, 2019    |[Java - Introduction](https://stepik.org/course/6858/syllabus)                                                         |      Stepik          |
 |    :white_check_mark: Done     |    2017        |      January, 2019    |[Intro to Java: Functional Programming](https://classroom.udacity.com/courses/ud282)                                   |      Udacity         |
 |    :arrow_forward: WIP         |    2018        |                       |[CS50 - Introduction to Computer Science](https://courses.edx.org/courses/course-v1:HarvardX+CS50+X/course/)           |      Edx             |
-|    :white_medium_square: ToDo  |    2018        |                       |[Learneroo / Java](https://www.learneroo.com/subjects/6)                                                               |      Learneroo       |
-|    :white_medium_square: ToDo  |    2017        |                       |[Object Oriented Programming in Java](https://classroom.udacity.com/courses/ud283)                                     |      Udacity         |
-|    :white_medium_square: ToDo  |    2018        |                       |[Introduction to Java Programming - Part 1](https://courses.edx.org/courses/course-v1:HKUSTx+COMP102.1x+3T2018/course/)|      Edx             |
-|    :white_medium_square: ToDo  |    2018        |                       |[Java Programming: Solving Problems with Software](https://www.coursera.org/learn/java-programming/home/welcome)       |      Coursera        |
 |    :white_medium_square: ToDo  |    2018        |                       |[Code Yourself! An Introduction to Programming](https://www.coursera.org/learn/intro-programming/home/welcome)         |      Coursera        |
+|    :white_medium_square: ToDo  |                |                       |[UBCx: HtC1x How to Code: Simple Data](https://www.edx.org/course/how-code-simple-data-ubcx-htc1x)                     |      Edx             |
+|    :white_medium_square: ToDo  |                |                       |[UBCx: HtC1x How to Code: Complex Data](https://www.edx.org/course/how-code-complex-data-ubcx-htc2x)                   |      Edx             |
+|    :white_medium_square: ToDo  |    2018        |                       |[Introduction to Java Programming - Part 1](https://courses.edx.org/courses/course-v1:HKUSTx+COMP102.1x+3T2018/course/)|      Edx             |
+|    :white_medium_square: ToDo  |    2017        |                       |[Object Oriented Programming in Java](https://classroom.udacity.com/courses/ud283)                                     |      Udacity         |
+|    :white_medium_square: ToDo  |    2018        |                       |[Java Programming: Solving Problems with Software](https://www.coursera.org/learn/java-programming/home/welcome)       |      Coursera        |
+|    :white_medium_square: ToDo  |    2019        |                       |[Microsoft: DEV277x Object Oriented Programming in Java](https://courses.edx.org/courses/course-v1:Microsoft+DEV277x+1T2019/course/)|      Edx             |
 |    :white_medium_square: ToDo  |    2018        |                       |[Learn Java online](http://www.learnjavaonline.org/en/)                                                                |      3rd party       |
 |    :white_medium_square: ToDo  |    2017        |                       |[Learn Java Unit Testing with JUnit 5 in 20 Steps](https://www.udemy.com/junit-tutorial-for-beginners-with-java-examples/learn/v4/overview)   |      3rd party       |
 |    :white_medium_square: ToDo  |    2018        |                       |[Алгоритмы: теория и практика. Структуры данных](https://stepik.org/course/1547/syllabus)                              |      Stepik          |
-|    :white_medium_square: ToDo  |                |                       |[UBCx: HtC1x How to Code: Simple Data](https://www.edx.org/course/how-code-simple-data-ubcx-htc1x)                     |      Edx             |
-|    :white_medium_square: ToDo  |                |                       |[UBCx: HtC1x How to Code: Complex Data](https://www.edx.org/course/how-code-complex-data-ubcx-htc2x)                   |      Edx             |
 |    :white_medium_square: ToDo  |                |                       |[Effective Thinking Through Mathematics](https://www.edx.org/course/effective-thinking-through-mathematics-utaustinx-ut-9-01x-0)                   |      Edx             |
 |    :white_medium_square: ToDo  |                |                       |[Intro to Algorithms](https://www.udacity.com/course/intro-to-algorithms--cs215)                                       |      Udacity         |
 |    :white_medium_square: ToDo  |                |                       |[Game Devlopment with Java](https://marcusman.com/)                                                                    |      marcusman       |
@@ -93,7 +96,8 @@ It is better to do it less hard but regularly, so here's the basic rules on how 
 |    :white_medium_square: ToDo  |                |                       |[Spring tutorials](https://www.youtube.com/watch?v=jH17YkBTpI4&list=PLU2ftbIeotGpAYRP9Iv2KLIwK36-o_qYk)                |      Youtube         |
 |    :white_medium_square: ToDo  |                |                       |[IT-Simulator](http://it-simulator.com/#/article/1/3)                                                                  |       |
 |    :white_medium_square: ToDo  |                |                       |[Golovach courses](https://www.youtube.com/user/KharkovITCourses/playlists?shelf_id=12&view=50&sort=dd)                |      Youtube         |
-|    :white_medium_square: ToDo  |                |                       |[Networking-SP](https://lagunita.stanford.edu/courses/Engineering/Networking-SP/SelfPaced/course/)                |      Stanford         |
+|    :white_medium_square: ToDo  |                |                       |[Networking-SP](https://lagunita.stanford.edu/courses/Engineering/Networking-SP/SelfPaced/course/)                     |      Stanford         |
+|    :white_medium_square: ToDo  |                |                       |[CS50-Mobile](https://www.edx.org/course/cs50s-mobile-app-development-with-react-native)                               |      EdX         |
 
 # Interesting challenges to solve:
 - [ ] [newNumeralSystem](https://app.codesignal.com/skill-test/ngQTG9kra7GE9pnnK)
