@@ -96,6 +96,7 @@ It is better to do it less hard but regularly, so here's the basic rules on how 
 |                                |                |                       |[Java Database Connection: JDBC and MySQL](https://www.udemy.com/how-to-connect-java-jdbc-to-mysql/)   |      Udemy       |
 |                                |                |                       |[Practice Java by Building Projects](https://www.udemy.com/practice-java-by-building-projects/)   |      Udemy       |
 |                                |                |                       |[Java Web Services](https://www.udemy.com/java-web-services/)   |      Udemy       |
+|                                |                |                       |[Spring Framework 5: Beginner to Guru](https://www.udemy.com/spring-framework-5-beginner-to-guru/)   |      Udemy       |
 |                                |                |                       |[Алгоритмы: теория и практика. Структуры данных](https://stepik.org/course/1547/syllabus)                              |      Stepik          |
 |                                |                |                       |[Effective Thinking Through Mathematics](https://www.edx.org/course/effective-thinking-through-mathematics-utaustinx-ut-9-01x-0)                   |      Edx             |
 |                                |                |                       |[Intro to Algorithms](https://www.udacity.com/course/intro-to-algorithms--cs215)                                       |      Udacity         |
