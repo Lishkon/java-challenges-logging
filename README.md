@@ -74,6 +74,8 @@ It is better to do it less hard but regularly, so here's the basic rules on how 
 | ToDo   |   [Clean Code: A Handbook of Agile Software Craftsmanship](https://www.investigatii.md/uploads/resurse/Clean_Code.pdf)            |
 | ToDo   |   [Know Thy Complexities](http://bigocheatsheet.com/)            |
 | ToDo   |   [Javarush theory](http://javarush.ipnodns.ru/)                 |
+| ToDo   |   [Java tutorial: Learn Java Programming with examples](https://beginnersbook.com/java-tutorial-for-beginners-with-examples/)                 |
+| ToDo   |   [Learn Enough Git To Be Dangerous](https://www.learnenough.com/git-tutorial/getting_started)                 |
 
 
 # Learning
