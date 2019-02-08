@@ -59,6 +59,7 @@ It is better to do it less hard but regularly, so here's the basic rules on how 
 
 ### Progress Logging
 - [Daily Logs](DAILYLOGS.md)
+- [Trello Board](https://trello.com/b/ehEicbsz/developers-roadmap-revised)
 
 # Books & Resources
 | Status | Title                                                                                                                                         |         Author              | Comments |
