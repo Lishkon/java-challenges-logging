@@ -5,6 +5,20 @@
     2. Day #
     3. Activity (-ies)
 
+Jan 31-Feb 11
+   - [x] Reading a lot, mostly concentrated on Head First Java
+   - [x] Bough a Udemy course on Spring Framework. Yet a little bit early, but this should motivate me to move on and not to give up
+   - [x] Keep working on Coursera's introductiom to Java course. But it takes a rush to go in between reading book and making the course home projects.
+
+---
+
+Jan 30, Day 55
+   - [x] Completed the [Intro to Java Udacity Course](https://classroom.udacity.com/courses/ud282)
+   - [x] Did some Math classes
+   - [x] Solved the Codingbat challenges
+
+---
+
 Jan 29, Day 54
    - [x] Started working on Crack (CS50 Week 2 last PSET's task)
    - [x] Watched the [lection on DES ](https://www.youtube.com/watch?v=kPBJIhpcZgE&list=PL6N5qY2nvvJE8X75VkXglSrVhLv1tVcfy&index=5)
