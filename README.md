@@ -77,6 +77,9 @@ It is better to do it less hard but regularly, so here's the basic rules on how 
 | ToDo   |   [Javarush theory](http://javarush.ipnodns.ru/)                 |
 | ToDo   |   [Java tutorial: Learn Java Programming with examples](https://beginnersbook.com/java-tutorial-for-beginners-with-examples/)                 |
 | ToDo   |   [Learn Enough Git To Be Dangerous](https://www.learnenough.com/git-tutorial/getting_started)                 |
+| ToDo   |   [Java Lambdas (Youtube videos)](https://www.youtube.com/watch?v=gpIUfj3KaOc&list=PLqq-6Pq4lTTa9YGfyhyW2CqdtW9RtY-I3)                 |
+| ToDo   |   [Coursera's Algorithm Specification](https://www.coursera.org/specializations/algorithms)                 |
+| ToDo   |   [Book: How To Solve It?](https://notendur.hi.is/hei2/teaching/Polya_HowToSolveIt.pdf)                 |
 
 
 # Learning
