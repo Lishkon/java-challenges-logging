@@ -5,6 +5,11 @@
     2. Day #
     3. Activity (-ies)
 
+Feb 27
+   - [x] Completed reading Chapter 9 from HeadFirstJava. Only exercises left for tomorrow
+   - [x] Worked through several CodeGym challenges
+---
+
 Jan 31-Feb 11
    - [x] Reading a lot, mostly concentrated on Head First Java
    - [x] Bough a Udemy course on Spring Framework. Yet a little bit early, but this should motivate me to move on and not to give up
