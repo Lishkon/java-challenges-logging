@@ -5,6 +5,11 @@
     2. Day #
     3. Activity (-ies)
 
+Feb 28
+   - [x] Completed reading Chapter 9 from HeadFirstJava. Only exercises left for tomorrow
+   - [x] Worked through several CodeGym challenges
+---
+
 Feb 27
    - [x] Completed reading Chapter 9 from HeadFirstJava. Only exercises left for tomorrow
    - [x] Worked through several CodeGym challenges
