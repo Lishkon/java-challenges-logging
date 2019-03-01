@@ -5,9 +5,14 @@
     2. Day #
     3. Activity (-ies)
 
-March 28
-   - [x] Reviewed the exercises from Chapter 9 (Head First Java)
+March 02
+   - [x] Started reading Chapter 10, stopped by one of the exercises from Chapter09
    - [x] Worked through several CodeGym challenges (level 5 completed)
+---
+
+March 01
+   - [x] Reviewed the exercises from Chapter 9 (Head First Java)
+   - [x] Worked through several CodeGym challenges (level 5)
 ---
 
 Feb 28
