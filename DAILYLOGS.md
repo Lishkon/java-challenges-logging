@@ -5,6 +5,11 @@
     2. Day #
     3. Activity (-ies)
 
+March 03
+   - [x] Read about static variables from HFJ
+   - [x] Worked through several CodeGym challenges (level 5 completed)
+---
+
 March 02
    - [x] Started reading Chapter 10, stopped by one of the exercises from Chapter09
    - [x] Worked through several CodeGym challenges (level 5 completed)
