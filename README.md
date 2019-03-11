@@ -113,6 +113,7 @@ It is better to do it less hard but regularly, so here's the basic rules on how 
 |                                |                |                       |[Golovach courses](https://www.youtube.com/user/KharkovITCourses/playlists?shelf_id=12&view=50&sort=dd)                |      Youtube         |
 |                                |                |                       |[Networking-SP](https://lagunita.stanford.edu/courses/Engineering/Networking-SP/SelfPaced/course/)                     |      Stanford         |
 |                                |                |                       |[CS50-Mobile](https://www.edx.org/course/cs50s-mobile-app-development-with-react-native)                               |      EdX         |
+|                                |                |                       |[CS 188 | Introduction to Artificial Intelligence](https://inst.eecs.berkeley.edu/~cs188/fa18/)                               |      Berkeley         |
 
 # Interesting challenges to solve:
 - [ ] [newNumeralSystem](https://app.codesignal.com/skill-test/ngQTG9kra7GE9pnnK)
